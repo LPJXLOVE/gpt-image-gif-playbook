@@ -9,23 +9,15 @@
 <body>
   <header class="top">
     <h1>GPT Image GIF Playbook</h1>
-    <p>37 GIF posts and 6 video workflows, with the pictures still hosted on X.</p>
-    <p>Open a card for the full prompt, a short excerpt, or a plain note that none was collected.</p>
+    <p>37 GIF posts and 6 video workflows.</p>
   </header>
-
-  <section class="pin" aria-label="Pinned original post">
-    <p class="pin-label">Pinned post</p>
-    <div id="pin-stage" class="pin-stage"></div>
-  </section>
 
   <div class="tools">
     <label class="search" for="search">Search
-      <input id="search" type="search" autocomplete="off" placeholder="Title, author, or prompt">
+      <input id="search" type="search" autocomplete="off" placeholder="Title or author">
     </label>
     <div id="category-filters" class="filters" role="toolbar" aria-label="Categories"></div>
-    <div id="prompt-filters" class="filters" role="toolbar" aria-label="Prompt status"></div>
-    <p class="keys">Arrow keys move between posts. Enter opens the prompt. Space plays or pauses a GIF.</p>
-    <p id="count" aria-live="polite"></p>
+    <p id="count" class="count" aria-live="polite"></p>
   </div>
 
   <p id="empty" class="empty" hidden>No posts match.</p>
@@ -33,14 +25,8 @@
 
   <footer class="foot">
     <a href="https://github.com/LPJXLOVE/gpt-image-gif-playbook/blob/main/RIGHTS.md">Rights</a>
-    <a href="https://github.com/LPJXLOVE/gpt-image-gif-playbook">Source repository</a>
   </footer>
 
-  <noscript>
-    <p>JavaScript is required to load the pictures from X.</p>
-  </noscript>
-
-  <script src="https://platform.twitter.com/widgets.js" async></script>
   <script src="app.js" defer></script>
 </body>
 </html>

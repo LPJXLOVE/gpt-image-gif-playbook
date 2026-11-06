@@ -1,21 +1,20 @@
 # GPT Image GIF Playbook
 
-37 animated-GIF posts and 6 video workflows. The pictures stay on X; this repository does not host them.
-Full prompts, short excerpts, and posts with no prompt stay labeled the way they were collected.
+37 GIF posts and 6 video workflows. The pictures stay on X.
 
-## View 43 cases
+## View the posts
 
-The gallery is [`docs/index.html`](docs/index.html). GIF cards play the X loop when the browser can fetch it. The six videos stay posters and open the original post. The Pages address would be `https://lpjxlove.github.io/gpt-image-gif-playbook/` after GitHub Actions is selected. That setting is not enabled, so the address is not a live site.
+[Gallery](https://lpjxlove.github.io/gpt-image-gif-playbook/)
 
 <p>
-<a href="docs/index.html"><img src="https://pbs.twimg.com/tweet_video_thumb/HWYw5e8XcAAn7Rl.jpg" alt="GIF preview of the arcade fight post by @SocialSight" width="180"></a>
-<a href="docs/index.html"><img src="https://pbs.twimg.com/tweet_video_thumb/HWWlW3HaEAAxdLe.jpg" alt="GIF preview of the pixel slash post by @Daft_Trade" width="180"></a>
-<a href="docs/index.html"><img src="https://pbs.twimg.com/tweet_video_thumb/HWYw5bsWwAA1Rqj.jpg" alt="GIF preview of the reaction post by @SocialSight" width="180"></a>
-<a href="docs/index.html"><img src="https://pbs.twimg.com/tweet_video_thumb/HWYw5c6XcAEKR6e.jpg" alt="GIF preview of the lo-fi study post by @SocialSight" width="180"></a>
-<a href="docs/index.html"><img src="https://pbs.twimg.com/tweet_video_thumb/HWYw5cHW4AAEPPQ.jpg" alt="GIF preview of the vertical dance post by @SocialSight" width="180"></a>
-<a href="docs/index.html"><img src="https://pbs.twimg.com/tweet_video_thumb/HWbIn_ca8AAtQ1B.jpg" alt="GIF preview of the watercolor travel post by @shuoxin_wang" width="180"></a>
-<a href="docs/index.html"><img src="https://pbs.twimg.com/amplify_video_thumb/2118666907893305344/img/wEJQcY5ZQmnjJaCi.jpg" alt="Video poster of the street-racing post by @zhu185178" width="180"></a>
-<a href="docs/index.html"><img src="https://pbs.twimg.com/tweet_video_thumb/HWb8BQuaYAEeQqP.jpg" alt="GIF preview of the character pointing post by @fukurou_kessha" width="180"></a>
+<a href="https://lpjxlove.github.io/gpt-image-gif-playbook/"><img src="https://pbs.twimg.com/tweet_video_thumb/HWYw5e8XcAAn7Rl.jpg" alt="GIF preview of the arcade fight post by @SocialSight" width="180"></a>
+<a href="https://lpjxlove.github.io/gpt-image-gif-playbook/#games-and-pixel"><img src="https://pbs.twimg.com/tweet_video_thumb/HWWlW3HaEAAxdLe.jpg" alt="GIF preview of the pixel slash post by @Daft_Trade" width="180"></a>
+<a href="https://lpjxlove.github.io/gpt-image-gif-playbook/#characters-and-stickers"><img src="https://pbs.twimg.com/tweet_video_thumb/HWYw5bsWwAA1Rqj.jpg" alt="GIF preview of the reaction post by @SocialSight" width="180"></a>
+<a href="https://lpjxlove.github.io/gpt-image-gif-playbook/#people-and-scenes"><img src="https://pbs.twimg.com/tweet_video_thumb/HWYw5c6XcAEKR6e.jpg" alt="GIF preview of the lo-fi study post by @SocialSight" width="180"></a>
+<a href="https://lpjxlove.github.io/gpt-image-gif-playbook/#people-and-scenes"><img src="https://pbs.twimg.com/tweet_video_thumb/HWYw5cHW4AAEPPQ.jpg" alt="GIF preview of the vertical dance post by @SocialSight" width="180"></a>
+<a href="https://lpjxlove.github.io/gpt-image-gif-playbook/#people-and-scenes"><img src="https://pbs.twimg.com/tweet_video_thumb/HWbIn_ca8AAtQ1B.jpg" alt="GIF preview of the watercolor travel post by @shuoxin_wang" width="180"></a>
+<a href="https://lpjxlove.github.io/gpt-image-gif-playbook/#video-workflows"><img src="https://pbs.twimg.com/amplify_video_thumb/2118666907893305344/img/wEJQcY5ZQmnjJaCi.jpg" alt="Video poster of the street-racing post by @zhu185178" width="180"></a>
+<a href="https://lpjxlove.github.io/gpt-image-gif-playbook/#characters-and-stickers"><img src="https://pbs.twimg.com/tweet_video_thumb/HWb8BQuaYAEeQqP.jpg" alt="GIF preview of the character pointing post by @fukurou_kessha" width="180"></a>
 </p>
 
 ## 15 full prompts
@@ -42,18 +41,18 @@ Each picture links to the collected prompt file. The wording is unchanged.
 
 ## Games and pixel
 
-<a href="https://x.com/dextune/status/2118523179702624694"><img src="https://pbs.twimg.com/tweet_video_thumb/HWaALpRbYAArZ4J.jpg" alt="GIF preview of the pixel jungle post by @dextune" width="240"></a>
+<a href="https://lpjxlove.github.io/gpt-image-gif-playbook/#games-and-pixel"><img src="https://pbs.twimg.com/tweet_video_thumb/HWaALpRbYAArZ4J.jpg" alt="GIF preview of the pixel jungle post by @dextune" width="240"></a>
 
 ## Characters and stickers
 
-<a href="https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108"><img src="https://pbs.twimg.com/tweet_video_thumb/HWUpH_BawAAEfdJ.jpg" alt="GIF preview of the dancing-cat post by @SSSS_CRYPTOMAN" width="240"></a>
+<a href="https://lpjxlove.github.io/gpt-image-gif-playbook/#characters-and-stickers"><img src="https://pbs.twimg.com/tweet_video_thumb/HWUpH_BawAAEfdJ.jpg" alt="GIF preview of the dancing-cat post by @SSSS_CRYPTOMAN" width="240"></a>
 
 ## Brand and objects
 
-<a href="https://x.com/global_techgirl/status/2118646553367740579"><img src="https://pbs.twimg.com/tweet_video_thumb/HWbxrL-WoAAIPKr.jpg" alt="GIF preview of the packaging post by @global_techgirl" width="240"></a>
+<a href="https://lpjxlove.github.io/gpt-image-gif-playbook/#brand-and-objects"><img src="https://pbs.twimg.com/tweet_video_thumb/HWbxrL-WoAAIPKr.jpg" alt="GIF preview of the packaging post by @global_techgirl" width="240"></a>
 
 ## People and scenes
 
-<a href="https://x.com/morphedai/status/2118424987833094244"><img src="https://pbs.twimg.com/tweet_video_thumb/HWYoRLfawAA2Hoc.jpg" alt="GIF preview of the bubblegum post by @morphedai" width="240"></a>
+<a href="https://lpjxlove.github.io/gpt-image-gif-playbook/#people-and-scenes"><img src="https://pbs.twimg.com/tweet_video_thumb/HWYoRLfawAA2Hoc.jpg" alt="GIF preview of the bubblegum post by @morphedai" width="240"></a>
 
 Third-party media, prompts, characters, and posts are not covered by the MIT license. See [RIGHTS.md](RIGHTS.md).
