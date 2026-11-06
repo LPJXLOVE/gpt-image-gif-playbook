@@ -1,0 +1,3112 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118144416900890624"
+        ]
+      },
+      "author_id": "1391788515302592524",
+      "conversation_id": "2118144429848748108",
+      "created_at": "2026-11-05T00:52:39.000Z",
+      "edit_history_post_ids": [
+        "2118144429848748108"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/itSUtPjjS9",
+            "end": 153,
+            "expanded_url": "https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108/photo/1",
+            "media_key": "16_2118144416900890624",
+            "start": 130,
+            "url": "https://t.co/itSUtPjjS9"
+          },
+          {
+            "display_url": "x.com/OpenAI/status/…",
+            "end": 177,
+            "expanded_url": "https://twitter.com/OpenAI/status/2118124944928432327",
+            "start": 154,
+            "url": "https://t.co/azU2E3t1V9"
+          }
+        ]
+      },
+      "id": "2118144429848748108",
+      "lang": "ja",
+      "referenced_tweets": [
+        {
+          "id": "2118124944928432327",
+          "type": "quoted"
+        }
+      ],
+      "text": "【速報】GPT Image 2.6が登場！\n新たにGIFに対応したの激アツ🔥\n\n既にChatGPTのアプリにも実装されてます\n👇️こんなのが一瞬でできました\n\nプロンプト\n次の内容で GIF を作成して: サングラスをかけた猫がダンスをするミームっぽいGIF https://t.co/itSUtPjjS9 https://t.co/azU2E3t1V9",
+      "url": "https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118165970133168129",
+          "3_2118166009131757568"
+        ]
+      },
+      "author_id": "1657474831",
+      "conversation_id": "2118166046175908016",
+      "created_at": "2026-11-05T02:18:33.000Z",
+      "edit_history_post_ids": [
+        "2118166046175908016"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/3LXYhAk9Fn",
+            "end": 140,
+            "expanded_url": "https://x.com/Gorden_Sun/status/2118166046175908016/photo/1",
+            "media_key": "16_2118165970133168129",
+            "start": 117,
+            "url": "https://t.co/3LXYhAk9Fn"
+          },
+          {
+            "display_url": "pic.x.com/3LXYhAk9Fn",
+            "end": 140,
+            "expanded_url": "https://x.com/Gorden_Sun/status/2118166046175908016/photo/1",
+            "media_key": "3_2118166009131757568",
+            "start": 117,
+            "url": "https://t.co/3LXYhAk9Fn"
+          }
+        ]
+      },
+      "id": "2118166046175908016",
+      "lang": "zh",
+      "text": "GPT新出的GPT Image 2.6，可以一句话生成表情包动图了，表情包自由了。\n\n图1 GIF图是生成的结果，图2是参考图。\n\n发给ChatGPT的提示词：使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！ https://t.co/3LXYhAk9Fn",
+      "url": "https://x.com/Gorden_Sun/status/2118166046175908016"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118180652751495168",
+          "16_2118180652780822528",
+          "16_2118180652764090368",
+          "16_2118180652759826433"
+        ]
+      },
+      "author_id": "1669276256",
+      "conversation_id": "2118181775688241456",
+      "created_at": "2026-11-05T03:21:03.000Z",
+      "edit_history_post_ids": [
+        "2118181775688241456"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/rdJ8krO2w6",
+            "end": 173,
+            "expanded_url": "https://x.com/op7418/status/2118181775688241456/photo/1",
+            "media_key": "16_2118180652751495168",
+            "start": 150,
+            "url": "https://t.co/rdJ8krO2w6"
+          },
+          {
+            "display_url": "pic.x.com/rdJ8krO2w6",
+            "end": 173,
+            "expanded_url": "https://x.com/op7418/status/2118181775688241456/photo/1",
+            "media_key": "16_2118180652780822528",
+            "start": 150,
+            "url": "https://t.co/rdJ8krO2w6"
+          },
+          {
+            "display_url": "pic.x.com/rdJ8krO2w6",
+            "end": 173,
+            "expanded_url": "https://x.com/op7418/status/2118181775688241456/photo/1",
+            "media_key": "16_2118180652764090368",
+            "start": 150,
+            "url": "https://t.co/rdJ8krO2w6"
+          },
+          {
+            "display_url": "pic.x.com/rdJ8krO2w6",
+            "end": 173,
+            "expanded_url": "https://x.com/op7418/status/2118181775688241456/photo/1",
+            "media_key": "16_2118180652759826433",
+            "start": 150,
+            "url": "https://t.co/rdJ8krO2w6"
+          }
+        ]
+      },
+      "id": "2118181775688241456",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 88,
+        "impression_count": 29209,
+        "like_count": 143,
+        "quote_count": 8,
+        "reply_count": 103,
+        "repost_count": 7
+      },
+      "text": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。\n\n这个很好玩！用它做了几张最近很火的大肥鱼表情包。\n\n神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。\n\n提示词放下面\n\n你可以用这套提示词生成各种大肥鱼表情包。 https://t.co/rdJ8krO2w6",
+      "url": "https://x.com/op7418/status/2118181775688241456"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2118181950112612352",
+          "3_2118181950091632640"
+        ]
+      },
+      "author_id": "1669276256",
+      "conversation_id": "2118181775688241456",
+      "created_at": "2026-11-05T03:21:50.000Z",
+      "edit_history_post_ids": [
+        "2118181972451438662"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Bn6AUpbsYS",
+            "end": 122,
+            "expanded_url": "https://x.com/op7418/status/2118181972451438662/photo/1",
+            "media_key": "3_2118181950112612352",
+            "start": 99,
+            "url": "https://t.co/Bn6AUpbsYS"
+          },
+          {
+            "display_url": "pic.x.com/Bn6AUpbsYS",
+            "end": 122,
+            "expanded_url": "https://x.com/op7418/status/2118181972451438662/photo/1",
+            "media_key": "3_2118181950091632640",
+            "start": 99,
+            "url": "https://t.co/Bn6AUpbsYS"
+          }
+        ]
+      },
+      "id": "2118181972451438662",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "提示词在这里，参考图用这两张就行，注意最后需要你填写的部分。\n\n请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。\n\n【角色保持一致】\n保留参考图中的蓝色渐变长发、呆毛、鲸鱼耳鳍、蓝色蝴蝶结、白色女仆头饰、蓝白女仆裙和大鲸鱼尾巴。\n保持原图的大头小身体 Q 版比例、圆脸和可爱画风，人物外观在所有帧中保持一致。\n\n【自动设计动作】\n理解我想表达的情绪或梗，将它设计成一个简单、有趣、一眼能看懂的短动作。\n突出一个核心笑点，用夸张表情、动作反差和轻微的压缩回弹增加喜感。头发、呆毛、耳鳍和尾巴自然跟随动作。\n根据主题添加必要的少量道具，保持画面简洁。\n主动设计首尾衔接，让动画能够自然循环播放。\n\n【自动配字】\n根据主题提炼一句简短、有网感的中文配字，优先控制在 2～8 个字。\n如果主题中用引号指定了台词，直接使用该台词。\n字幕放在顶部，使用粗圆体、深蓝字、白色描边；文字、字形和位置全程稳定，角色与道具不遮挡字幕。\n\n【画面与输出】\n正方形画面，纯白背景，固定镜头，主体居中并保留足够边距。\n动画约 2～3 秒，无限循环，动作清晰，适合聊天时作为表情包发送。\n最终交付实际会播放的多帧 GIF 文件，并提供下载。\n\n表情包主题：【在这里填一句话，描述你想表达的梗、情绪或动作】"
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118181775688241456",
+          "type": "replied_to"
+        }
+      ],
+      "text": "提示词在这里，参考图用这两张就行，注意最后需要你填写的部分。\n\n请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。\n\n【角色保持一致】 https://t.co/Bn6AUpbsYS",
+      "url": "https://x.com/op7418/status/2118181972451438662"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118196669749809153"
+        ]
+      },
+      "author_id": "1675467412647575553",
+      "conversation_id": "2118196682680856739",
+      "created_at": "2026-11-05T04:20:17.000Z",
+      "edit_history_post_ids": [
+        "2118196682680856739"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/NuSAfvRs8y",
+            "end": 196,
+            "expanded_url": "https://x.com/kabumira862571/status/2118196682680856739/photo/1",
+            "media_key": "16_2118196669749809153",
+            "start": 173,
+            "url": "https://t.co/NuSAfvRs8y"
+          },
+          {
+            "display_url": "x.com/ChatGPT/status…",
+            "end": 220,
+            "expanded_url": "https://twitter.com/ChatGPT/status/2118168231617700199",
+            "start": 197,
+            "url": "https://t.co/SEMc5gd9AJ"
+          }
+        ]
+      },
+      "id": "2118196682680856739",
+      "lang": "ja",
+      "referenced_tweets": [
+        {
+          "id": "2118168231617700199",
+          "type": "quoted"
+        }
+      ],
+      "text": "【ChatGPTの\n　GPT-Imageがバージョンアップ】\n\nChatGPTの画像生成GPT-Imageが2.6になりました。生成速度・編集精度・アニメーション生成・デザイン制作能力が進化。\n\n特に、アニメGIFをPromptから作成可能になりました。\n\nPrompt：\n次の内容で GIF を作成して: バレリーナが飛び上がって着地するまで https://t.co/NuSAfvRs8y https://t.co/SEMc5gd9AJ",
+      "url": "https://x.com/kabumira862571/status/2118196682680856739"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118204508451020800"
+        ]
+      },
+      "author_id": "2084245314643599360",
+      "conversation_id": "2118204607319212235",
+      "created_at": "2026-11-05T04:51:47.000Z",
+      "edit_history_post_ids": [
+        "2118204607319212235"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/A2HZruiDTX",
+            "end": 228,
+            "expanded_url": "https://x.com/NickyLi42/status/2118204607319212235/photo/1",
+            "media_key": "16_2118204508451020800",
+            "start": 205,
+            "url": "https://t.co/A2HZruiDTX"
+          }
+        ]
+      },
+      "id": "2118204607319212235",
+      "lang": "en",
+      "text": "Tried GPT Image 2.6 GIF output on a meme remake. Short sticker loops are fine. Anything denser needs a real pipeline.\n\nDeepSeek-chan boxing · 2.5s / 24fps / 60 frames · this file ~$0.50 (whole run ~$2.40) https://t.co/A2HZruiDTX",
+      "url": "https://x.com/NickyLi42/status/2118204607319212235"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118241236914212864"
+        ]
+      },
+      "author_id": "816255073235808256",
+      "conversation_id": "2118241265213165676",
+      "created_at": "2026-11-05T07:17:27.000Z",
+      "edit_history_post_ids": [
+        "2118241265213165676"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 122,
+            "start": 116,
+            "tag": "AIart"
+          },
+          {
+            "end": 129,
+            "start": 123,
+            "tag": "AIGIF"
+          },
+          {
+            "end": 142,
+            "start": 131,
+            "tag": "MashuAIart"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/61Np9SWGPH",
+            "end": 166,
+            "expanded_url": "https://x.com/__masyu0225/status/2118241265213165676/photo/1",
+            "media_key": "16_2118241236914212864",
+            "start": 143,
+            "url": "https://t.co/61Np9SWGPH"
+          }
+        ]
+      },
+      "id": "2118241265213165676",
+      "lang": "ja",
+      "text": "GPT Image 2.6リリース🧐\nGIF作ってみた🫨\n\n企画・プロンプト→ChatGPT\nイラスト生成→niji•journey\nGIF化→GPT Image 2.6\n\n改善点はまだまだあるね💦\n特に物理計算が足らないなぁ😅\n\n#AIart #AIGIF  #MashuAIart https://t.co/61Np9SWGPH",
+      "url": "https://x.com/__masyu0225/status/2118241265213165676"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118252250158256128"
+        ]
+      },
+      "author_id": "816255073235808256",
+      "conversation_id": "2118252336313467016",
+      "created_at": "2026-11-05T08:01:26.000Z",
+      "edit_history_post_ids": [
+        "2118252336313467016"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 127,
+            "start": 121,
+            "tag": "AIart"
+          },
+          {
+            "end": 134,
+            "start": 128,
+            "tag": "AIGIF"
+          },
+          {
+            "end": 146,
+            "start": 135,
+            "tag": "MashuAIart"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/1C9n3UBqEU",
+            "end": 170,
+            "expanded_url": "https://x.com/__masyu0225/status/2118252336313467016/photo/1",
+            "media_key": "16_2118252250158256128",
+            "start": 147,
+            "url": "https://t.co/1C9n3UBqEU"
+          }
+        ]
+      },
+      "id": "2118252336313467016",
+      "lang": "ja",
+      "text": "次は昔のAIイラストをGPT Image 2.6でプロンプト入力し直して作り直してからGIF化した🫨🫨🫨\n\nさっきより安定したかな？？？\nやっぱり物理計算がまだまだこっちは指示入れてもなかなかダメだな😭\nトリプルアクセルに見えるのか不明💦\n\n#AIart #AIGIF #MashuAIart https://t.co/1C9n3UBqEU",
+      "url": "https://x.com/__masyu0225/status/2118252336313467016"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118264129152487424"
+        ]
+      },
+      "author_id": "1396687038703939587",
+      "conversation_id": "2118264145824944558",
+      "created_at": "2026-11-05T08:48:22.000Z",
+      "edit_history_post_ids": [
+        "2118264145824944558"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/bjebRnNJJe",
+            "end": 185,
+            "expanded_url": "https://x.com/AXIS95277/status/2118264145824944558/photo/1",
+            "media_key": "16_2118264129152487424",
+            "start": 162,
+            "url": "https://t.co/bjebRnNJJe"
+          }
+        ]
+      },
+      "id": "2118264145824944558",
+      "lang": "zh",
+      "text": "上传一张静态表情包，再写一句「它该怎么动」，就能拿到一张会动的 GIF。我们拿前两天做的 9 张橘猫快递员表情包试了，每张只跑 1 次，9 张都出了动图，猫没走样，下面的字一个没错。\n\n图里就是这 9 张出来的 GIF，拼成了九宫格。\n\n今天早上 OpenAI 发了新的图片模型 GPT Image 2.6，官方说能直接出 GIF 动图。我们当天就用 OpenAI 的 API 跑了，模型叫 gpt-image-2.6-sunburst。C…",
+      "url": "https://x.com/AXIS95277/status/2118264145824944558",
+      "editorial_truncated": true,
+      "full_text_policy": "仅必要节选；完整响应保存在本地research证据，不整体转载长体验文。"
+    },
+    {
+      "author_id": "1396687038703939587",
+      "conversation_id": "2118264145824944558",
+      "created_at": "2026-11-05T08:48:25.000Z",
+      "edit_history_post_ids": [
+        "2118264156885221681"
+      ],
+      "id": "2118264156885221681",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "上传静态表情包用的模板（我们 9 张都用这一句，只换括号里的内容）：\n\n让这张表情包动起来，做成循环动画：（动作）。角色外观、（衣服和道具，例如：黄色雨衣、黄色头盔、绿色外卖箱）和原图完全一样。画面下方的「（表情包上的字）」保持原样、位置不动。不要加任何其他文字。\n\n9 句动作原文：\n1「收到」：橘猫保持敬礼的姿势，敬礼的爪子在头盔边上轻轻点两下，同时眨一下眼睛\n2「好的」：比 OK 手势的爪子轻轻晃两下，同时点两下头\n3「谢谢老板」：橘猫双手合十，连续鞠躬两次，抬头时笑得眯起眼睛\n4「在路上了」：骑着小电驴往前飞奔，车轮转动，身体跟着颠一颠\n5「哈哈哈」：笑到在地上左右打滚\n6「委屈」：抱着外卖箱，眼泪一滴一滴往下掉，肩膀一抽一抽\n7「累瘫」：趴在地上一动不想动，身体随呼吸慢慢起伏，尾巴轻轻摆一下\n8「冲鸭」：橘猫握拳向上用力挥两下，表情坚定，身体跟着往前一冲一冲\n9「晚安」：抱着头盔睡觉，身体随呼吸轻轻起伏\n\n参数：模型 gpt-image-2.6-sunburst，上传图片改图的接口，输出格式 gif，尺寸 512x512。1024 我们试过会报错（那次是不传图直接出动图）。\n「好的」「累瘫」「晚安」三句写得太轻，出来几乎不动，抄的时候把它们改成带次数、带力气的动作。"
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118264145824944558",
+          "type": "replied_to"
+        }
+      ],
+      "text": "上传静态表情包用的模板（我们 9 张都用这一句，只换括号里的内容）：\n\n让这张表情包动起来，做成循环动画：（动作）。角色外观、（衣服和道具，例如：黄色雨衣、黄色头盔、绿色外卖箱）和原图完全一样。画面下方的「（表情包上的字）」保持原样、位置不动。不要加任何其他文字。\n\n9 句动作原文：",
+      "url": "https://x.com/AXIS95277/status/2118264156885221681"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118264166565752832"
+        ]
+      },
+      "author_id": "1396687038703939587",
+      "conversation_id": "2118264145824944558",
+      "created_at": "2026-11-05T08:48:30.000Z",
+      "edit_history_post_ids": [
+        "2118264180239184369"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/LHWL7GylpC",
+            "end": 59,
+            "expanded_url": "https://x.com/AXIS95277/status/2118264180239184369/photo/1",
+            "media_key": "16_2118264166565752832",
+            "start": 36,
+            "url": "https://t.co/LHWL7GylpC"
+          }
+        ]
+      },
+      "id": "2118264180239184369",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "不传图、只写一句话出动图（图里 3 张都是这样出的，每张跑 1 次）：\n\n一只圆滚滚的橘猫快递员，戴蓝色帽子，开心地举起爪子挥手，循环动画。画面下方有白色粗体中文大字「收到」，黑色描边，文字在每一帧都保持不变、不晃动。干净的浅米色背景，扁平插画风格，表情包。除了「收到」两个字，不要任何其他文字。\n\n另外两张也是这个结构，换了角色描述、动作和字，最后『除了「收到」两个字』那句也要跟着改。这样出的字也全对，但猫是模型现画的，跟你自己的角色没关系；「收到」这张挥手的爪子有 3 帧糊成了白团，第 8 帧脸上还有一块黑点，用之前放大看一眼。"
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118264156885221681",
+          "type": "replied_to"
+        }
+      ],
+      "text": "不传图、只写一句话出动图（图里 3 张都是这样出的，每张跑 1 次）： https://t.co/LHWL7GylpC",
+      "url": "https://x.com/AXIS95277/status/2118264180239184369"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118264374485999617",
+          "16_2118264411047727104"
+        ]
+      },
+      "author_id": "1671920202",
+      "conversation_id": "2118265895613346263",
+      "created_at": "2026-11-05T08:55:19.000Z",
+      "edit_history_post_ids": [
+        "2118264619366310291",
+        "2118265895613346263"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Np7dQFmWmr",
+            "end": 182,
+            "expanded_url": "https://x.com/vastxie/status/2118265895613346263/photo/1",
+            "media_key": "16_2118264374485999617",
+            "start": 159,
+            "url": "https://t.co/Np7dQFmWmr"
+          },
+          {
+            "display_url": "pic.x.com/Np7dQFmWmr",
+            "end": 182,
+            "expanded_url": "https://x.com/vastxie/status/2118265895613346263/photo/1",
+            "media_key": "16_2118264411047727104",
+            "start": 159,
+            "url": "https://t.co/Np7dQFmWmr"
+          }
+        ]
+      },
+      "id": "2118265895613346263",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "拿pro订阅送的API额度，试了下刚出的gpt-image-2.6，一口气跑完两套微信动态表情包——《内阁打工人》和《精神稳定的藏狐》\n\n加上前期测试，全流程一共也就4刀出头的赠金，四舍五入等于白嫖，分享下摸索出来的4步极简工作流：\n\n1. 先抽1号锚点图锁人设：调generations接口先跑每套的第1张，参数开 output_format=\"gif\" + size=\"320x320\" + background=\"transparent\"，底层会按3×3母版直出9帧透明动图。确认人设和印章/标牌比例OK后，抽出第0帧存成 anchor.png\n\n2. 喂锚点图并发跑齐整套：剩下15张直接把 anchor.png 喂给 edits 接口并发跑，只改动作描述和配字。古风方印尽量固定用2×2四字词，现代标牌用粗体短词，两套32张下来零错字\n\n3. 微信深色模式去白沫避坑：prompt里千万别惯性加 white sticker border（白色贴纸描边）或者标牌连接杆，不然帽翅和耳朵缝隙里全是抠不干净的白沫，切微信深色背景直接没法看。强制写死 strictly NO white sticker border, NO white outline，让印章和标牌直接悬空就OK\n\n4. 脚本一键合规打包：最后用python按9帧联合包围盒居中缩放到240×240，保留前景原始RGB做GIF89a透明量化（不向白底预乘），顺手裁好cover和icon就能直接丢微信表情后台了"
+      },
+      "text": "拿pro订阅送的API额度，试了下刚出的gpt-image-2.6，一口气跑完两套微信动态表情包——《内阁打工人》和《精神稳定的藏狐》\n\n加上前期测试，全流程一共也就4刀出头的赠金，四舍五入等于白嫖，分享下摸索出来的4步极简工作流：\n\n1. 先抽1号锚点图锁人设：调generations接口先跑每套的第1张，参数开 https://t.co/Np7dQFmWmr",
+      "url": "https://x.com/vastxie/status/2118265895613346263"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118281011918409728"
+        ]
+      },
+      "author_id": "339622037",
+      "conversation_id": "2118283025498906800",
+      "created_at": "2026-11-05T10:03:23.000Z",
+      "edit_history_tweet_ids": [
+        "2118283025498906800"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 264,
+            "start": 252,
+            "tag": "GPTImages26"
+          },
+          {
+            "end": 274,
+            "start": 266,
+            "tag": "GameDev"
+          }
+        ],
+        "urls": [
+          {
+            "description": "รวมเกมที่สร้างด้วย AI กว่า 400 เกม พร้อมบทความแนะนำและรีวิว ลิงก์กดเล่นตรงถึงเว็บเกม ข่าวสารเกม AI ใหม่ๆ และเครื่องมือสร้างเกมด้วย AI",
+            "display_url": "gameslash.app",
+            "end": 250,
+            "expanded_url": "https://gameslash.app/",
+            "start": 227,
+            "status": 200,
+            "title": "รวมเกม AI พร้อมรีวิว เครื่องมือ และข่าวสาร | GameSlash",
+            "unwound_url": "https://gameslash.app/",
+            "url": "https://t.co/QfS90TMcf4"
+          },
+          {
+            "display_url": "pic.x.com/p3IhXHTrM3",
+            "end": 298,
+            "expanded_url": "https://x.com/Daft_Trade/status/2118283025498906800/photo/1",
+            "media_key": "16_2118281011918409728",
+            "start": 275,
+            "url": "https://t.co/p3IhXHTrM3"
+          }
+        ]
+      },
+      "id": "2118283025498906800",
+      "lang": "en",
+      "text": "Game animation prototyping just got easier. ⚔️\n\nOne prompt in GPT Image 2.6 gave me a 3-hit pixel-art combo with slash trails, straight to GIF.\n\nSettings + 3 more demos in the replies ↓\n\nThai-made games, news &amp; dev tools → https://t.co/QfS90TMcf4\n\n#GPTImages26  #GameDev https://t.co/p3IhXHTrM3",
+      "url": "https://x.com/Daft_Trade/status/2118283025498906800"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118283153341321216"
+        ]
+      },
+      "author_id": "339622037",
+      "conversation_id": "2118283025498906800",
+      "created_at": "2026-11-05T10:03:57.000Z",
+      "edit_history_post_ids": [
+        "2118283168071684292"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/DrAraaZXgQ",
+            "end": 242,
+            "expanded_url": "https://x.com/Daft_Trade/status/2118283168071684292/photo/1",
+            "media_key": "16_2118283153341321216",
+            "start": 219,
+            "url": "https://t.co/DrAraaZXgQ"
+          }
+        ]
+      },
+      "id": "2118283168071684292",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118283025498906800",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Want to try it? Lock the camera and give each action a frame range. I used 512×512, high quality, and an opaque background. The sword combo uses 16 frames × 40 ms. This spark uses 8 × 50 ms to flash, scatter, and fade. https://t.co/DrAraaZXgQ",
+      "url": "https://x.com/Daft_Trade/status/2118283168071684292"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118283297658925056"
+        ]
+      },
+      "author_id": "339622037",
+      "conversation_id": "2118283025498906800",
+      "created_at": "2026-11-05T10:04:33.000Z",
+      "edit_history_post_ids": [
+        "2118283316050944116"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/HiD84VFkpK",
+            "end": 210,
+            "expanded_url": "https://x.com/Daft_Trade/status/2118283316050944116/photo/1",
+            "media_key": "16_2118283297658925056",
+            "start": 187,
+            "url": "https://t.co/HiD84VFkpK"
+          }
+        ]
+      },
+      "id": "2118283316050944116",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118283025498906800",
+          "type": "replied_to"
+        }
+      ],
+      "text": "For a looping spell, keep the center fixed and tell the model how the last frame should flow into the first. This charge ring uses 12 frames × 80 ms, with three sparks orbiting the ring. https://t.co/HiD84VFkpK",
+      "url": "https://x.com/Daft_Trade/status/2118283316050944116"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118283395277217792"
+        ]
+      },
+      "author_id": "339622037",
+      "conversation_id": "2118283025498906800",
+      "created_at": "2026-11-05T10:04:55.000Z",
+      "edit_history_post_ids": [
+        "2118283409781117416"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/kTQ6ZyQzqK",
+            "end": 196,
+            "expanded_url": "https://x.com/Daft_Trade/status/2118283409781117416/photo/1",
+            "media_key": "16_2118283395277217792",
+            "start": 173,
+            "url": "https://t.co/kTQ6ZyQzqK"
+          }
+        ]
+      },
+      "id": "2118283409781117416",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118283025498906800",
+          "type": "replied_to"
+        }
+      ],
+      "text": "For a jump, describe the poses in order. Run → push off → tuck → flip → land. This one uses 16 frames × 80 ms. I flattened the background color afterward to remove flicker. https://t.co/kTQ6ZyQzqK",
+      "url": "https://x.com/Daft_Trade/status/2118283409781117416"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118284845059280896",
+          "3_2118285007920025600"
+        ]
+      },
+      "author_id": "3301610721",
+      "conversation_id": "2118285021371048082",
+      "created_at": "2026-11-05T10:11:19.000Z",
+      "edit_history_post_ids": [
+        "2118285021371048082"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/dBMh1GhIgI",
+            "end": 90,
+            "expanded_url": "https://x.com/AndromedaAlien3/status/2118285021371048082/photo/1",
+            "media_key": "16_2118284845059280896",
+            "start": 67,
+            "url": "https://t.co/dBMh1GhIgI"
+          },
+          {
+            "display_url": "pic.x.com/dBMh1GhIgI",
+            "end": 90,
+            "expanded_url": "https://x.com/AndromedaAlien3/status/2118285021371048082/photo/1",
+            "media_key": "3_2118285007920025600",
+            "start": 67,
+            "url": "https://t.co/dBMh1GhIgI"
+          }
+        ]
+      },
+      "id": "2118285021371048082",
+      "lang": "ja",
+      "text": "GPT Image 2.6のGIFで背景のノイズを消そうと最初に画像用意してAPIでGIF化した\nプロンプト生成よりは良くなったか？ https://t.co/dBMh1GhIgI",
+      "url": "https://x.com/AndromedaAlien3/status/2118285021371048082"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118336296750026752"
+        ]
+      },
+      "author_id": "886009320306900992",
+      "conversation_id": "2118339480365277460",
+      "created_at": "2026-11-05T13:47:43.000Z",
+      "edit_history_post_ids": [
+        "2118339480365277460"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/ce3dvGIaT3",
+            "end": 190,
+            "expanded_url": "https://x.com/ai_bange/status/2118339480365277460/photo/1",
+            "media_key": "16_2118336296750026752",
+            "start": 167,
+            "url": "https://t.co/ce3dvGIaT3"
+          }
+        ]
+      },
+      "id": "2118339480365277460",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "GIF 我还没开始玩呢，你们今天就哐哐哐地把这个赛道干成红海了？\n\n现在轮到我了 😂\n\nOpenAI 的 GPT Image 2.6 支持通过 Image API 生成动态 GIF，我也整理了一个表情包 Prompt。\n\n上传一张照片，就能围绕人物、宠物或其他主体，设计一套 12 种心情的动态表情包。动作和文案会根据图片内容调整。\n\nPrompt 👇"
+      },
+      "text": "GIF 我还没开始玩呢，你们今天就哐哐哐地把这个赛道干成红海了？\n\n现在轮到我了 😂\n\nOpenAI 的 GPT Image 2.6 支持通过 Image API 生成动态 GIF，我也整理了一个表情包 Prompt。\n\n上传一张照片，就能围绕人物、宠物或其他主体，设计一套 12 种心情的动态表情包。动作和文案会根据图片内容调整。 https://t.co/ce3dvGIaT3",
+      "url": "https://x.com/ai_bange/status/2118339480365277460"
+    },
+    {
+      "author_id": "886009320306900992",
+      "conversation_id": "2118339480365277460",
+      "created_at": "2026-11-05T13:48:09.000Z",
+      "edit_history_post_ids": [
+        "2118339589144490122"
+      ],
+      "id": "2118339589144490122",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "请根据我上传的图片，制作一套 12 款动态表情包。\n\n【识别主体】\n观察图片，选择最适合制作表情包的主体。主体可能是人物、动物、卡通角色、物品或其他形象。如果有多个主体，优先选择最突出、最适合表达情绪的一个。\n\n保留主体最容易辨认的外貌、颜色、服装或其他特征。12 款表情中的角色需要保持一致，不随动作改变身份或主要特征。\n\n【画风】\n结合图片内容选择适合的表情包风格，整体可爱、有趣、辨识度高。12 款保持统一的线条、色彩和背景。\n\n可以适度卡通化和夸张化，但不要让角色失去原有特征。人物保留原有年龄特征，服装和动作符合角色形象。\n\n【12 种心情】\n围绕以下心情或场景，结合主体特点自动设计不同的表情和动作：\n\n1. 开心\n2. 生气\n3. 委屈\n4. 大笑\n5. 收到或回应\n6. 疑惑\n7. 疲惫\n8. 震惊\n9. 装睡或逃避\n10. 期待或等待\n11. 无奈或不忍直视\n12. 放松、放学或下班\n\n根据主体的身体结构设计动作。例如：\n- 小狗开心时可以摇尾巴、蹦跳，跑步时耳朵随之晃动。\n- 人物开心时可以挥手、跳起来。\n- 物品可以通过开合、弹跳或适度形变表达情绪。\n\n如果角色有耳朵、头发、衣物或随身物件，让它们适当地随动作运动。保持主体始终完整、可辨认。\n\n【动态文案】\n不要给所有表情机械地套用固定文案。根据每款表情的角色、情绪和动作，分别设计自然、有趣的中文短句。\n\n每款可以设计一到两句文案，让文字随动作节奏出现、切换或消失。例如：\n- 开心时，从“好开心！”切换到“耶！”\n- 装睡时，从“嘘……”切换到“我睡啦”。\n\n文字位置和展示方式可以灵活变化：在人物上方或侧边出现，也可以弹出、轻晃、放大或渐显。不同表情可以使用不同方式，但整体风格保持统一。\n\n文字应准确、清晰，避免挡住角色的脸和关键动作，也不要超出画面。\n\n【动态制作】\n- 为每款表情设计连续、明显的动作。\n- 让表情、身体或主体的相应部位实际发生变化，不要只让整张静态图片平移、旋转或缩放。\n- 角色动作与文字动画配合，节奏自然。\n- 动画首尾自然衔接，GIF 无限循环。\n- 保持角色、画风和背景稳定，避免明显变形、闪烁、重影或裁切。\n\n【最终交付】\n1. 12 个独立 GIF，按各自的心情或文案命名，并打包提供下载。\n2. 一张动态总览 GIF：按 4 列 × 3 行排列，12 款表情同时播放。\n3. 在对话中直接展示动态总览，并提供总览 GIF 和独立 GIF 压缩包的下载链接。\n\n如果当前工具无法直接生成 GIF，可以先制作连续动作帧，再合成循环 GIF。若无法完成动图，请说明实际完成的内容，不要把静态图称为已完成的角色动画。"
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118339480365277460",
+          "type": "replied_to"
+        }
+      ],
+      "text": "请根据我上传的图片，制作一套 12 款动态表情包。\n\n【识别主体】\n观察图片，选择最适合制作表情包的主体。主体可能是人物、动物、卡通角色、物品或其他形象。如果有多个主体，优先选择最突出、最适合表达情绪的一个。\n\n保留主体最容易辨认的外貌、颜色、服装或其他特征。12",
+      "url": "https://x.com/ai_bange/status/2118339589144490122"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_2118369175697502208"
+        ]
+      },
+      "author_id": "1514641399043424258",
+      "conversation_id": "2118369182458708217",
+      "created_at": "2026-11-05T15:45:45.000Z",
+      "edit_history_post_ids": [
+        "2118369182458708217"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/MIkXX755pv",
+            "end": 173,
+            "expanded_url": "https://x.com/KOF97AI/status/2118369182458708217/video/1",
+            "media_key": "7_2118369175697502208",
+            "start": 150,
+            "url": "https://t.co/MIkXX755pv"
+          }
+        ]
+      },
+      "id": "2118369182458708217",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 190,
+              "start": 185,
+              "tag": "AI工具"
+            },
+            {
+              "end": 196,
+              "start": 191,
+              "tag": "设计灵感"
+            }
+          ]
+        },
+        "text": "用 GPT image 2.6 做连贯动作 GIF 表情包，核心是用“分镜垫图”锁住动作轨迹\n\n第一步先生成一张包含完整连续动作分解的多格序列图（如投篮起跳、出手到入网）\n第二步把这张序列图作为参考垫图传回模型\n第三步直接输入生成指令：创建一个gif，按照附图的动作顺序生成\n两步走能大幅解决 AI 直接生成动图时动作变形和时序混乱的问题，做各种连贯动作表情包都很稳\n\n#AI工具 #设计灵感"
+      },
+      "text": "用 GPT image 2.6 做连贯动作 GIF 表情包，核心是用“分镜垫图”锁住动作轨迹\n\n第一步先生成一张包含完整连续动作分解的多格序列图（如投篮起跳、出手到入网）\n第二步把这张序列图作为参考垫图传回模型\n第三步直接输入生成指令：创建一个gif，按照附图的动作顺序生成\n两步走能大幅解决 AI https://t.co/MIkXX755pv",
+      "url": "https://x.com/KOF97AI/status/2118369182458708217"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118370418243563520"
+        ]
+      },
+      "author_id": "2033025228654391296",
+      "conversation_id": "2118371183599255833",
+      "created_at": "2026-11-05T15:53:42.000Z",
+      "edit_history_post_ids": [
+        "2118371183599255833"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/x9yCzCgrmh",
+            "end": 150,
+            "expanded_url": "https://x.com/Bytec99/status/2118371183599255833/photo/1",
+            "media_key": "16_2118370418243563520",
+            "start": 127,
+            "url": "https://t.co/x9yCzCgrmh"
+          }
+        ]
+      },
+      "id": "2118371183599255833",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "GPT Image 2.6 能做 GIF 了，我觉得挺利好自己做游戏、还得自己买量的个人开发者\n\n游戏要在不同平台投多个广告展位，每个位置都得备相应的素材。下面三张是我做的样例。同一款游戏，按照玩法设计不同的钩子，用 2.6 生成 GIF，现在又快又省\n\n进一步，可以把这条数据通路接起来：每条素材的投放数据，都能对应到生成它的那版提示词\n\n举个例子，比如想知道「开头就放大招」会不会比「先蓄力再放大招」更吸引人，就只改这句提示词，出两版 GIF，在同一个广告位跑 A/B。哪版转化率高，就用哪个，且可以给未来同类型游戏的素材生成提示词提供参考"
+      },
+      "text": "GPT Image 2.6 能做 GIF 了，我觉得挺利好自己做游戏、还得自己买量的个人开发者\n\n游戏要在不同平台投多个广告展位，每个位置都得备相应的素材。下面三张是我做的样例。同一款游戏，按照玩法设计不同的钩子，用 2.6 生成 GIF，现在又快又省 https://t.co/x9yCzCgrmh",
+      "url": "https://x.com/Bytec99/status/2118371183599255833"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_2118407624152498176"
+        ]
+      },
+      "author_id": "2110744653574135810",
+      "conversation_id": "2118407688082051207",
+      "created_at": "2026-11-05T18:18:45.000Z",
+      "edit_history_post_ids": [
+        "2118407688082051207"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/HswvNBMPNt",
+            "end": 275,
+            "expanded_url": "https://x.com/aigoatseu/status/2118407688082051207/video/1",
+            "media_key": "7_2118407624152498176",
+            "start": 252,
+            "url": "https://t.co/HswvNBMPNt"
+          }
+        ]
+      },
+      "id": "2118407688082051207",
+      "lang": "pl",
+      "text": "Płacisz za programy do animacji? GPT Image 2.6 w ChatGPT robi GIF-a ze zdjęcia w pół minuty, także na darmowym koncie. Sprawdziliśmy na naszym logo. Haczyk: półtorej sekundy ruchu i mały plik. Na relację wystarczy, na billboard nie. Zapisz na później. https://t.co/HswvNBMPNt",
+      "url": "https://x.com/aigoatseu/status/2118407688082051207"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2118405386575269888"
+        ]
+      },
+      "author_id": "1594876549286739968",
+      "conversation_id": "2118408795026043260",
+      "created_at": "2026-11-05T18:23:09.000Z",
+      "edit_history_post_ids": [
+        "2118408795026043260"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/ywZ4FMjJJV",
+            "end": 300,
+            "expanded_url": "https://x.com/cocktailpeanut/status/2118408795026043260/video/1",
+            "media_key": "13_2118405386575269888",
+            "start": 277,
+            "url": "https://t.co/ywZ4FMjJJV"
+          },
+          {
+            "display_url": "x.com/OpenAI/status/…",
+            "end": 324,
+            "expanded_url": "https://twitter.com/OpenAI/status/2118124944928432327",
+            "start": 301,
+            "url": "https://t.co/P7FbaYSHXI"
+          }
+        ]
+      },
+      "id": "2118408795026043260",
+      "lang": "en",
+      "referenced_tweets": [
+        {
+          "id": "2118124944928432327",
+          "type": "quoted"
+        }
+      ],
+      "text": "The GPT-Image 2.6 is a game changer for AI video generation, when combined with Minimax H3. I made a full 15 sec video by:\n\n1. Creating a 15 sec animated GIF on ChatGPT\n2. Feeding it to H3 (via Maestro)\n\nAnimated GIF on the left. Final video on the right. Workflow in thread 👇 https://t.co/ywZ4FMjJJV https://t.co/P7FbaYSHXI",
+      "url": "https://x.com/cocktailpeanut/status/2118408795026043260"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2118407099247968256"
+        ]
+      },
+      "author_id": "1594876549286739968",
+      "conversation_id": "2118408795026043260",
+      "created_at": "2026-11-05T18:23:11.000Z",
+      "edit_history_post_ids": [
+        "2118408801812643957"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/glY8fZp6u1",
+            "end": 304,
+            "expanded_url": "https://x.com/cocktailpeanut/status/2118408801812643957/video/1",
+            "media_key": "13_2118407099247968256",
+            "start": 281,
+            "url": "https://t.co/glY8fZp6u1"
+          }
+        ]
+      },
+      "id": "2118408801812643957",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Step 1. Generating a 5 sec animated GIF\n\nPrompt: \"Generate a 5-second animated GIF consisting of 10 evenly spaced animation frames. Make it look like a crude gray Blender viewport animation, not cinematic footage. A single continuous shot inside a rectangular hallway with a tiled floor and simple gray walls. The camera slowly advances toward a doorway. A black humanoid mannequin with unusually long arms emerges from behind the doorway. The camera suddenly whips right, falls onto its side, and stops. The mannequin slowly walks toward and past the fallen camera. Maintain consistent 3D geometry, character proportions, doorway placement, and spatial relationships. No cuts, no teleportation, no scene changes, no added props. Focus on exact camera movement, depth, and timing. The animation should play once as a complete sequence, not return to its starting pose.\""
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118408798218109382",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Step 1. Generating a 5 sec animated GIF\n\nPrompt: \"Generate a 5-second animated GIF consisting of 10 evenly spaced animation frames. Make it look like a crude gray Blender viewport animation, not cinematic footage. A single continuous shot inside a rectangular hallway with a tiled https://t.co/glY8fZp6u1",
+      "url": "https://x.com/cocktailpeanut/status/2118408801812643957"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2118407928197644289"
+        ]
+      },
+      "author_id": "1594876549286739968",
+      "conversation_id": "2118408795026043260",
+      "created_at": "2026-11-05T18:23:12.000Z",
+      "edit_history_post_ids": [
+        "2118408807789277628"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/P5uQjtnPhK",
+            "end": 304,
+            "expanded_url": "https://x.com/cocktailpeanut/status/2118408807789277628/photo/1",
+            "media_key": "3_2118407928197644289",
+            "start": 281,
+            "url": "https://t.co/P5uQjtnPhK"
+          }
+        ]
+      },
+      "id": "2118408807789277628",
+      "lang": "en",
+      "referenced_tweets": [
+        {
+          "id": "2118408804660625502",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Step 3. Feed the 15 second GIF as Reference Video into Minimax H3\n\nIn this case I used Minimax H3 Singularity 4 step with 480p, used the GIF as reference, in Maestro.\n\nPrompt: \"Transform the reference video into Doom 2 s…",
+      "url": "https://x.com/cocktailpeanut/status/2118408807789277628",
+      "editorial_truncated": true,
+      "full_text_policy": "仅必要节选；完整响应保存在本地research证据，不整体转载长体验文。"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118424950331850752"
+        ]
+      },
+      "author_id": "1999436905805742080",
+      "conversation_id": "2118424648438432011",
+      "created_at": "2026-11-05T19:27:30.000Z",
+      "edit_history_post_ids": [
+        "2118424987833094244"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/CAo47E5cRU",
+            "end": 301,
+            "expanded_url": "https://x.com/morphedai/status/2118424987833094244/photo/1",
+            "media_key": "16_2118424950331850752",
+            "start": 278,
+            "url": "https://t.co/CAo47E5cRU"
+          }
+        ]
+      },
+      "id": "2118424987833094244",
+      "lang": "en",
+      "note_tweet": {
+        "text": "The GIF, raw. 9 frames, one prompt, 24 credits on GPT Image 2.6 Sunburst GIF.\n\nPrompt:\n\nA seamless looping animated GIF. Young Scandinavian woman, 22, platinum blonde bob, freckles, hot pink oversized puffer jacket, on a flat saturated cobalt blue studio wall and floor. Medium shot. She blows a huge bubblegum bubble, it pops on her face, it resets, forever, her eyes bored and looking straight at the camera. Bold, bright, crisp photographic look, hard studio light, no text, no logos."
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118424648438432011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "The GIF, raw. 9 frames, one prompt, 24 credits on GPT Image 2.6 Sunburst GIF.\n\nPrompt:\n\nA seamless looping animated GIF. Young Scandinavian woman, 22, platinum blonde bob, freckles, hot pink oversized puffer jacket, on a flat saturated cobalt blue studio wall and floor. Medium https://t.co/CAo47E5cRU",
+      "url": "https://x.com/morphedai/status/2118424987833094244"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118434438841331712"
+        ]
+      },
+      "author_id": "1893168194837454849",
+      "created_at": "2026-11-05T20:05:05.000Z",
+      "edit_history_tweet_ids": [
+        "2118434446739124689"
+      ],
+      "id": "2118434446739124689",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1690,
+        "like_count": 12,
+        "quote_count": 2,
+        "reply_count": 2,
+        "retweet_count": 3
+      },
+      "text": "GPT Image 2.6 now makes animated GIFs.\n\nOne prompt in, a looping GIF out. Here are 10 things you can make with it 🧵\n\n1. Arcade versus screen https://t.co/vXxYCg8Uqg",
+      "url": "https://x.com/SocialSight/status/2118434446739124689"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118434438128295936"
+        ]
+      },
+      "author_id": "1893168194837454849",
+      "conversation_id": "2118434446739124689",
+      "created_at": "2026-11-05T20:05:05.000Z",
+      "edit_history_post_ids": [
+        "2118434447926214921"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/MF5o5Ts71M",
+            "end": 46,
+            "expanded_url": "https://x.com/SocialSight/status/2118434447926214921/photo/1",
+            "media_key": "16_2118434438128295936",
+            "start": 23,
+            "url": "https://t.co/MF5o5Ts71M"
+          }
+        ]
+      },
+      "id": "2118434447926214921",
+      "lang": "fr",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 75,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118434446739124689",
+          "type": "replied_to"
+        }
+      ],
+      "text": "2. Retro side-scroller https://t.co/MF5o5Ts71M",
+      "url": "https://x.com/SocialSight/status/2118434447926214921"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118434437968871424"
+        ]
+      },
+      "author_id": "1893168194837454849",
+      "conversation_id": "2118434446739124689",
+      "created_at": "2026-11-05T20:05:05.000Z",
+      "edit_history_post_ids": [
+        "2118434448966287452"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/P2yiDkZPHr",
+            "end": 39,
+            "expanded_url": "https://x.com/SocialSight/status/2118434448966287452/photo/1",
+            "media_key": "16_2118434437968871424",
+            "start": 16,
+            "url": "https://t.co/P2yiDkZPHr"
+          }
+        ]
+      },
+      "id": "2118434448966287452",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 46,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118434447926214921",
+          "type": "replied_to"
+        }
+      ],
+      "text": "3. Reaction GIF https://t.co/P2yiDkZPHr",
+      "url": "https://x.com/SocialSight/status/2118434448966287452"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118434437759193089"
+        ]
+      },
+      "author_id": "1893168194837454849",
+      "conversation_id": "2118434446739124689",
+      "created_at": "2026-11-05T20:05:06.000Z",
+      "edit_history_post_ids": [
+        "2118434450245558651"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/BPbZp9V9GZ",
+            "end": 62,
+            "expanded_url": "https://x.com/SocialSight/status/2118434450245558651/photo/1",
+            "media_key": "16_2118434437759193089",
+            "start": 39,
+            "url": "https://t.co/BPbZp9V9GZ"
+          }
+        ]
+      },
+      "id": "2118434450245558651",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 35,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118434448966287452",
+          "type": "replied_to"
+        }
+      ],
+      "text": "4. Game sprite idle loop (transparent) https://t.co/BPbZp9V9GZ",
+      "url": "https://x.com/SocialSight/status/2118434450245558651"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118434437696286720"
+        ]
+      },
+      "author_id": "1893168194837454849",
+      "conversation_id": "2118434446739124689",
+      "created_at": "2026-11-05T20:05:06.000Z",
+      "edit_history_post_ids": [
+        "2118434451680002136"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/oEUoscHMsC",
+            "end": 55,
+            "expanded_url": "https://x.com/SocialSight/status/2118434451680002136/photo/1",
+            "media_key": "16_2118434437696286720",
+            "start": 32,
+            "url": "https://t.co/oEUoscHMsC"
+          }
+        ]
+      },
+      "id": "2118434451680002136",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 29,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118434450245558651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "5. Logo animation (transparent) https://t.co/oEUoscHMsC",
+      "url": "https://x.com/SocialSight/status/2118434451680002136"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118434438296072193"
+        ]
+      },
+      "author_id": "1893168194837454849",
+      "conversation_id": "2118434446739124689",
+      "created_at": "2026-11-05T20:05:06.000Z",
+      "edit_history_post_ids": [
+        "2118434452745433464"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/UWcK5eQh03",
+            "end": 43,
+            "expanded_url": "https://x.com/SocialSight/status/2118434452745433464/photo/1",
+            "media_key": "16_2118434438296072193",
+            "start": 20,
+            "url": "https://t.co/UWcK5eQh03"
+          }
+        ]
+      },
+      "id": "2118434452745433464",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 29,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118434451680002136",
+          "type": "replied_to"
+        }
+      ],
+      "text": "6. Lo-fi study loop https://t.co/UWcK5eQh03",
+      "url": "https://x.com/SocialSight/status/2118434452745433464"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118434438031810561"
+        ]
+      },
+      "author_id": "1893168194837454849",
+      "conversation_id": "2118434446739124689",
+      "created_at": "2026-11-05T20:05:07.000Z",
+      "edit_history_post_ids": [
+        "2118434453819199617"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/yHxLZ7WqNB",
+            "end": 38,
+            "expanded_url": "https://x.com/SocialSight/status/2118434453819199617/photo/1",
+            "media_key": "16_2118434438031810561",
+            "start": 15,
+            "url": "https://t.co/yHxLZ7WqNB"
+          }
+        ]
+      },
+      "id": "2118434453819199617",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 29,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118434452745433464",
+          "type": "replied_to"
+        }
+      ],
+      "text": "7. Cinemagraph https://t.co/yHxLZ7WqNB",
+      "url": "https://x.com/SocialSight/status/2118434453819199617"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118434437910179840"
+        ]
+      },
+      "author_id": "1893168194837454849",
+      "conversation_id": "2118434446739124689",
+      "created_at": "2026-11-05T20:05:07.000Z",
+      "edit_history_post_ids": [
+        "2118434454888714482"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/37AWSRyACR",
+            "end": 53,
+            "expanded_url": "https://x.com/SocialSight/status/2118434454888714482/photo/1",
+            "media_key": "16_2118434437910179840",
+            "start": 30,
+            "url": "https://t.co/37AWSRyACR"
+          }
+        ]
+      },
+      "id": "2118434454888714482",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 30,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118434453819199617",
+          "type": "replied_to"
+        }
+      ],
+      "text": "8. Chat sticker (transparent) https://t.co/37AWSRyACR",
+      "url": "https://x.com/SocialSight/status/2118434454888714482"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118434437960523777"
+        ]
+      },
+      "author_id": "1893168194837454849",
+      "conversation_id": "2118434446739124689",
+      "created_at": "2026-11-05T20:05:07.000Z",
+      "edit_history_post_ids": [
+        "2118434455958257769"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/KxuwNNUckv",
+            "end": 43,
+            "expanded_url": "https://x.com/SocialSight/status/2118434455958257769/photo/1",
+            "media_key": "16_2118434437960523777",
+            "start": 20,
+            "url": "https://t.co/KxuwNNUckv"
+          }
+        ]
+      },
+      "id": "2118434455958257769",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118434454888714482",
+          "type": "replied_to"
+        }
+      ],
+      "text": "9. 8-bit boss level https://t.co/KxuwNNUckv",
+      "url": "https://x.com/SocialSight/status/2118434455958257769"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118434438082125824"
+        ]
+      },
+      "author_id": "1893168194837454849",
+      "conversation_id": "2118434446739124689",
+      "created_at": "2026-11-05T20:05:07.000Z",
+      "edit_history_post_ids": [
+        "2118434457212338658"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/W1dy6yzfhH",
+            "end": 59,
+            "expanded_url": "https://x.com/SocialSight/status/2118434457212338658/photo/1",
+            "media_key": "16_2118434438082125824",
+            "start": 36,
+            "url": "https://t.co/W1dy6yzfhH"
+          }
+        ]
+      },
+      "id": "2118434457212338658",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 48,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118434455958257769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "10. Vertical dance loop for Stories https://t.co/W1dy6yzfhH",
+      "url": "https://x.com/SocialSight/status/2118434457212338658"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118516134911807489"
+        ]
+      },
+      "author_id": "1481438064580784132",
+      "conversation_id": "2118516145942843865",
+      "created_at": "2026-11-06T01:29:43.000Z",
+      "edit_history_post_ids": [
+        "2118516145942843865"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 12,
+            "start": 0,
+            "tag": "GPTImages26"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/GONTg6SlOM",
+            "end": 123,
+            "expanded_url": "https://x.com/itnavi2022/status/2118516145942843865/photo/1",
+            "media_key": "16_2118516134911807489",
+            "start": 100,
+            "url": "https://t.co/GONTg6SlOM"
+          }
+        ]
+      },
+      "id": "2118516145942843865",
+      "lang": "ja",
+      "text": "#GPTImages26 お試し中\n\nGrok BotからChatGPTを操作してGIF画像を作成するのが面白いです。\n\nプロンプトはこれだけ。「ちびキャラのカンフー少女が演舞するGIFを作成して」 https://t.co/GONTg6SlOM",
+      "url": "https://x.com/itnavi2022/status/2118516145942843865"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118517845353238528"
+        ]
+      },
+      "author_id": "1432778782444646401",
+      "conversation_id": "2118519274482586001",
+      "created_at": "2026-11-06T01:42:09.000Z",
+      "edit_history_post_ids": [
+        "2118519274482586001"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/fdSUSj9Bzh",
+            "end": 135,
+            "expanded_url": "https://x.com/midori_tatsuta/status/2118519274482586001/photo/1",
+            "media_key": "16_2118517845353238528",
+            "start": 112,
+            "url": "https://t.co/fdSUSj9Bzh"
+          }
+        ]
+      },
+      "id": "2118519274482586001",
+      "lang": "ja",
+      "text": "ChatGPTのGPT images 2.6でちびキャラのGIF が簡単にできたー！LINEスタンプづくりとか、動画生成AIを使わなくても簡単なアニメーションならできちゃいますね。\n\n手順とプロンプトはリプ欄に貼りました。 https://t.co/fdSUSj9Bzh",
+      "url": "https://x.com/midori_tatsuta/status/2118519274482586001"
+    },
+    {
+      "author_id": "1432778782444646401",
+      "conversation_id": "2118519274482586001",
+      "created_at": "2026-11-06T01:42:10.000Z",
+      "edit_history_post_ids": [
+        "2118519276848185637"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "誰かがあなたにおすすめしたプロンプトです。",
+            "display_url": "chatgpt.com/s/p_6aed2fb83c…",
+            "end": 50,
+            "expanded_url": "https://chatgpt.com/s/p_6aed2fb83c2c81919c227123d23268d4",
+            "images": [
+              {
+                "height": 800,
+                "url": "https://pbs.twimg.com/news_img/2118519308372586497/8uW9StbP?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2118519308372586497/8uW9StbP?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 27,
+            "status": 200,
+            "title": "このプロンプトをチェック",
+            "unwound_url": "https://chatgpt.com/s/p_6aed2fb83c2c81919c227123d23268d4",
+            "url": "https://t.co/d8HkIiDb69"
+          }
+        ]
+      },
+      "id": "2118519276848185637",
+      "lang": "ja",
+      "referenced_tweets": [
+        {
+          "id": "2118519274482586001",
+          "type": "replied_to"
+        }
+      ],
+      "text": "ちびキャラプロンプトはChatGPT公式に置きました\nhttps://t.co/d8HkIiDb69\n\n✅手順\n①好きな人物画像を添付して上記プロンプトで画像生成\n②生成した画像をChatGPTに添付して「（好きな動き）のループGIFを作成してくださいと」依頼",
+      "url": "https://x.com/midori_tatsuta/status/2118519276848185637"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118521612270264320"
+        ]
+      },
+      "author_id": "1903623162",
+      "created_at": "2026-11-06T01:57:40.000Z",
+      "edit_history_tweet_ids": [
+        "2118523179702624694"
+      ],
+      "id": "2118523179702624694",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 1235,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 1
+      },
+      "text": "GPT Image 2.6\n\nOpenAI released Images 2.6 with 50% faster image generation, GIF creation, and more precise editing across ChatGPT, Codex, and the API.\n\nAttached below is a GIF generated with ChatGPT's image generation feature.\n\nPlease see below ↓ for the prompt used. https://t.co/g50lfpmnDn",
+      "url": "https://x.com/dextune/status/2118523179702624694"
+    },
+    {
+      "author_id": "1903623162",
+      "conversation_id": "2118523179702624694",
+      "created_at": "2026-11-06T01:57:41.000Z",
+      "edit_history_post_ids": [
+        "2118523182198206781"
+      ],
+      "id": "2118523182198206781",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Create a seamless looping animated GIF in highly detailed 16-bit retro pixel art style, inspired by classic side-scrolling adventure games and lively miniature pixel-art worlds.\n\nScene and composition\n\nA fixed-camera, square 1:1 pixel-art jungle environment with a soft pastel lavender-blue background and layered silhouettes of distant forest trees.\n\nOn the left stands a compact beige retro-futuristic research station with mechanical panels, ladders, tiny windows, and a large rotating satellite dish mounted on its roof.\n\nOn the right stands an ancient three-level brown brick tower with small openings and decorative stone details.\n\nTwo enormous trees with rich lime-green pixelated foliage and reddish-brown trunks rise behind the structures. Small bushes, scattered rocks, and a tiny campsite occupy the ground.\n\nSeveral tiny colorful adventurer characters, birds, and little green creatures inhabit this miniature world.\n\nAnimation sequence\n\nRadar scanning: The satellite dish slowly rotates, projecting a translucent white triangular searchlight across the scene. The beam sweeps between the trees and the brick tower, gradually expanding and fading.\n\nCharacter movement: Tiny adventurers run along rooftops, jump between platforms, briefly pause, and resume moving. Their legs and arms animate with authentic retro-game sprite cycles.\n\nRope swinging: One adventurer grabs a thin suspended rope and swings between the trees and buildings in a smooth pendulum motion. The rope bends and follows the character's momentum.\n\nWildlife: Small birds flap their wings and hop between branches. Tiny green creatures walk, bounce, and react to nearby characters.\n\nEnvironmental motion: Tree leaves gently sway, dangling vines oscillate, and small foliage details move subtly. The distant forest remains stationary.\n\nContinuous activity: Different characters perform independent actions at slightly different times, making the small world feel alive without excessive motion.\n\nAnimation quality\n\nAuthentic hand-crafted pixel-art animation.\nSharp square pixels with consistent pixel density.\nSmooth sprite movement without morphing or deformation.\nFixed camera, absolutely no zooming or panning.\nBuildings, trees, and terrain retain identical shapes and positions throughout.\nNatural overlapping animation cycles.\nSubtle secondary movement and playful character interactions.\nPreserve the original pastel palette and nostalgic video-game atmosphere.\n\nLoop requirements\n\nCreate a 4×4 uniform spritesheet containing 16 sequential animation frames, with each frame occupying an identical square cell.\n\nUse approximately 200 milliseconds per frame for a 3.2-second animated GIF.\n\nAll characters remain completely within their respective frame boundaries.\n\nThe first and last frames must connect naturally to create a seamless infinite loop, without sudden resets, flickering, or visual jumps.\n\nStrict restrictions\n\nNo camera movement, no scene cuts, no transitions, no motion blur, no realistic 3D rendering, no smooth vector illustration, no UI, no text, no frame borders, no added structures, and no inconsistent character designs.\n\nThe result should resemble a beautifully animated living pixel-art game environment, not a static illustration with simple motion effects."
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118523179702624694",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Create a seamless looping animated GIF in highly detailed 16-bit retro pixel art style, inspired by classic side-scrolling adventure games and lively miniature pixel-art worlds.\n\nScene and composition\n\nA fixed-camera, square 1:1 pixel-art jungle environment with a soft pastel",
+      "url": "https://x.com/dextune/status/2118523182198206781"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118553949964013568"
+        ]
+      },
+      "author_id": "81245637",
+      "conversation_id": "2118554281913848040",
+      "created_at": "2026-11-06T04:01:16.000Z",
+      "edit_history_post_ids": [
+        "2118554281913848040"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/H9U4ybUMpQ",
+            "end": 79,
+            "expanded_url": "https://x.com/taro_acida/status/2118554281913848040/photo/1",
+            "media_key": "16_2118553949964013568",
+            "start": 56,
+            "url": "https://t.co/H9U4ybUMpQ"
+          }
+        ]
+      },
+      "id": "2118554281913848040",
+      "lang": "ja",
+      "text": "GPT Images 2.6でGIFアニメを作れるようになったので、花園ぴゃむを踊らせてみたけど、いまいち…… https://t.co/H9U4ybUMpQ",
+      "url": "https://x.com/taro_acida/status/2118554281913848040"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118581343013797888",
+          "16_2118581343017902080",
+          "16_2118581344699867136",
+          "16_2118581344116846592"
+        ]
+      },
+      "author_id": "1999491331413188608",
+      "conversation_id": "2118581371845386450",
+      "created_at": "2026-11-06T05:48:55.000Z",
+      "edit_history_post_ids": [
+        "2118581371845386450"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/blQQ9OuZmP",
+            "end": 158,
+            "expanded_url": "https://x.com/DeepBlueX0/status/2118581371845386450/photo/1",
+            "media_key": "16_2118581343013797888",
+            "start": 135,
+            "url": "https://t.co/blQQ9OuZmP"
+          },
+          {
+            "display_url": "pic.x.com/blQQ9OuZmP",
+            "end": 158,
+            "expanded_url": "https://x.com/DeepBlueX0/status/2118581371845386450/photo/1",
+            "media_key": "16_2118581343017902080",
+            "start": 135,
+            "url": "https://t.co/blQQ9OuZmP"
+          },
+          {
+            "display_url": "pic.x.com/blQQ9OuZmP",
+            "end": 158,
+            "expanded_url": "https://x.com/DeepBlueX0/status/2118581371845386450/photo/1",
+            "media_key": "16_2118581344699867136",
+            "start": 135,
+            "url": "https://t.co/blQQ9OuZmP"
+          },
+          {
+            "display_url": "pic.x.com/blQQ9OuZmP",
+            "end": 158,
+            "expanded_url": "https://x.com/DeepBlueX0/status/2118581371845386450/photo/1",
+            "media_key": "16_2118581344116846592",
+            "start": 135,
+            "url": "https://t.co/blQQ9OuZmP"
+          },
+          {
+            "display_url": "x.com/deepbluex0/sta…",
+            "end": 182,
+            "expanded_url": "https://twitter.com/deepbluex0/status/2118286089303867584",
+            "start": 159,
+            "url": "https://t.co/ljWdJwRwdj"
+          }
+        ]
+      },
+      "id": "2118581371845386450",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "用GPT images 2.6輕鬆實現表情包自由了✌️\n\nText to GIF Prompt:\n\nAI圈熱門梗 × 動漫遊戲角色或AI擬人娘 × Q版動態表情包 × 循環GIF\n\n每張獨立創作一個有趣、有AI圈共鳴、適合日常聊天的Q版循環GIF。\n\n【角色開放抽卡】\n\n自由選擇經典動漫遊戲成年角色，或具有辨識度的AI模型擬人娘，探索不同作品、品牌與人物性格。\n\n保留角色標誌性的髮型、配色、服裝、配飾與性格。AI娘優先參考具有辨識度的同人形象，沒有統一形象時依品牌特徵設計。\n\n所有人形角色均為成年，轉譯成約2至3頭身、圓潤簡潔、表情誇張的可愛Q版造型。\n\nAI娘必須帶有對應品牌的官方Logo，保留準確圖形與代表配色，自然融入醒目的服裝或髮飾。普通動漫遊戲角色按情境需要加入AI元素。\n\n整批探索不同角色與品牌，避免反覆選中同一人物。允許不同角色跨界互動。\n\n【AI熱門梗 × 開放抽卡】\n\n每張自主探索一個真實流行、具有AI圈共鳴的熱門話題、技術現象、使用體驗或網路迷因。\n\n題材保持開放，關注當前AI生態、創作者日常、模型特性、使用者心理及社群文化中的有趣矛盾。\n\n優先尋找具有鮮明反差、荒誕感、意外性或情緒共鳴的題材，將抽象概念轉化成一眼能懂的生活情境與喜劇事件。\n\n每張重新探索不同的笑點來源與情緒表達。同一問題的不同說法、相近情境或相似笑點視為重複，避免整批集中於少數熟悉題材。\n\n讓角色性格、事件發展與意外結果共同構成笑點，使作品具有真實聊天使用價值。\n\n【喜劇動作 × 自然節奏】\n\n每張圍繞一個核心笑點，根據角色性格與事件自由設計不同的喜劇表演。\n\n從事件起因、人物反應、情緒變化、意外結果與循環方式中尋找有趣的動態關係。喜劇可以來自角色自身，也可以由道具、環境或其他角色觸發。\n\n動作具有合理的蓄力、加速、減速、慣性與回彈。允許Q版誇張變形及快速反應，保留清楚連續的中間姿態。\n\n根據笑點安排鋪墊、爆發與停頓，關鍵表情或笑點結果可停留約0.5至1秒。靜止時可保留自然的細微動作，例如眨眼、呼吸、髮飾晃動、耳朵顫動或衣角輕微擺動。\n\n優先探索循環本身就是笑點的玩法，讓事件自然重置或角色回到起始狀態，首尾畫面流暢銜接。\n\n角色、服裝、Logo、道具、文字與背景在整段動畫中保持一致。\n\n【動畫時長與幀數】\n\n動畫時長依笑點內容自適應控制在2至6秒。\n\n根據動作複雜度、笑點節奏與循環方式，合理分配8至16幀。簡單反應可用較少幀數與較長停頓，較完整的喜劇過程可用更多中間幀來保證連續性。\n\n每幀停留時間依實際動作節奏調整，優先保證動作清楚、笑點完整、停頓有效及首尾自然銜接。\n\n【視覺與文字】\n\n精緻簡潔的Q版動漫表情包風格，輪廓清晰、色彩鮮明、五官誇張。\n\n根據角色與事件自由決定構圖、景別、道具及場景。可採用極簡背景，也可呈現具有敘事作用的小型場景。\n\n避免將所有人物固定在相似的電腦桌面環境中。\n\n每張搭配約2至8字的中文網路口語，用來表達情緒、吐槽或補充笑點。文字清楚醒目，動畫期間保持穩定。\n\n縮小至128×128像素後，仍能辨認角色、表情、品牌身份與主要笑點。\n\n【系列抽卡與去重】\n\n每張生成前，重新確定角色身份、AI梗、主要情緒、喜劇機制、核心動作與畫面結構。\n\n將同一題材的不同措辭視為同類，將相似動作與相近反轉視為同類。\n\n對照本批已完成的作品，優先探索尚未使用的角色、題材與喜劇形式。\n\n優先改變主要事件及動作結構，避免只靠更換角色外觀、文字或表情形成表面差異。\n\n整批保持一致的Q版品質，同時讓每張作品擁有獨立的視覺記憶點。\n\n【輸出】\n\n512×512像素，1:1正方形畫幅。\n\n完整、可播放、首尾自然銜接的循環GIF。\n\n左下签名：深蓝色实心圆点在前，白色手写体 DeepBlue 在后\n\nn=9，連續創作9個不同角色、不同AI梗與不同喜劇機制的獨立GIF。每次只生成一個完整可播放的GIF，逐張輸出。"
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118286089303867584",
+          "type": "quoted"
+        }
+      ],
+      "text": "用GPT images 2.6輕鬆實現表情包自由了✌️\n\nText to GIF Prompt:\n\nAI圈熱門梗 × 動漫遊戲角色或AI擬人娘 × Q版動態表情包 × 循環GIF\n\n每張獨立創作一個有趣、有AI圈共鳴、適合日常聊天的Q版循環GIF。\n\n【角色開放抽卡】 https://t.co/blQQ9OuZmP https://t.co/ljWdJwRwdj",
+      "url": "https://x.com/DeepBlueX0/status/2118581371845386450"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118601264095490048"
+        ]
+      },
+      "author_id": "1267123837335814144",
+      "conversation_id": "2118601544899924035",
+      "created_at": "2026-11-06T07:09:04.000Z",
+      "edit_history_post_ids": [
+        "2118601544899924035"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/3pZEbBc1eL",
+            "end": 218,
+            "expanded_url": "https://x.com/shuoxin_wang/status/2118601544899924035/photo/1",
+            "media_key": "16_2118601264095490048",
+            "start": 195,
+            "url": "https://t.co/3pZEbBc1eL"
+          }
+        ]
+      },
+      "id": "2118601544899924035",
+      "lang": "en",
+      "text": "Turns out GPT Images 2.6 is really good for this.\n\nI used it to make a sketchbook-style travel visual with watercolor rendering + animated GIF motion, and the result feels surprisingly charming. https://t.co/3pZEbBc1eL",
+      "url": "https://x.com/shuoxin_wang/status/2118601544899924035"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2118629915797204992"
+        ]
+      },
+      "author_id": "2017620965971398659",
+      "conversation_id": "2118630103894909299",
+      "created_at": "2026-11-06T09:02:33.000Z",
+      "edit_history_post_ids": [
+        "2118630103894909299"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/zwqSvpw1Wp",
+            "end": 201,
+            "expanded_url": "https://x.com/renoiseai/status/2118630103894909299/video/1",
+            "media_key": "13_2118629915797204992",
+            "start": 178,
+            "url": "https://t.co/zwqSvpw1Wp"
+          },
+          {
+            "display_url": "x.com/renoiseai/stat…",
+            "end": 225,
+            "expanded_url": "https://twitter.com/renoiseai/status/2118622183832608896",
+            "start": 202,
+            "url": "https://t.co/GWBruxWczw"
+          }
+        ]
+      },
+      "id": "2118630103894909299",
+      "lang": "en",
+      "referenced_tweets": [
+        {
+          "id": "2118622183832608896",
+          "type": "quoted"
+        }
+      ],
+      "text": "GPT Image 2.6 can turn any character into a dance GIF from just one image 💃\n\nCreate 16 poses with GPT Image 2.6, then turn them into a dance GIF, all on Renoise.\n\nPrompt below 👇 https://t.co/zwqSvpw1Wp https://t.co/GWBruxWczw",
+      "url": "https://x.com/renoiseai/status/2118630103894909299"
+    },
+    {
+      "author_id": "2017620965971398659",
+      "conversation_id": "2118630103894909299",
+      "created_at": "2026-11-06T09:03:18.000Z",
+      "edit_history_post_ids": [
+        "2118630290646327460"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Create videos, images, and audio with leading AI models. Keep characters and products consistent, enhance media to 4K, and plan shots with Renoise Agent.",
+            "display_url": "renoise.ai/?utm_medium=xc…",
+            "end": 37,
+            "expanded_url": "https://renoise.ai/?utm_medium=xcom&utm_source=official-mayz-gpt-image-26-launch",
+            "images": [
+              {
+                "height": 675,
+                "url": "https://pbs.twimg.com/news_img/2116283438130991104/bUV-D2Hq?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2116283438130991104/bUV-D2Hq?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 14,
+            "status": 200,
+            "title": "Renoise AI: AI Video & Image Suite for Marketers & Creators",
+            "unwound_url": "https://renoise.ai/?utm_medium=xcom&utm_source=official-mayz-gpt-image-26-launch",
+            "url": "https://t.co/YXvd6OnIYO"
+          }
+        ]
+      },
+      "id": "2118630290646327460",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "renoise.ai/?utm_medium=xc…",
+              "end": 37,
+              "expanded_url": "https://renoise.ai/?utm_medium=xcom&utm_source=official-mayz-gpt-image-26-launch",
+              "start": 14,
+              "url": "https://t.co/zl6cytMEr5"
+            }
+          ]
+        },
+        "text": "Try it here 👉 https://t.co/zl6cytMEr5\n\nGPT Image 2.6 prompt:\n\nStep 1 · 16 poses\n\nUse the uploaded image as the character reference. Redraw her as a cute Japanese anime girl and create a 4x4 grid of 16 full-body dance poses of this exact same character: groove bounce, shoulder pop, arm wave, side step, body roll, point to camera, spin, braid flip, knee lift, hands-up cheer, peace sign, wrist roll, lean back, slide step, freeze pose, final wink pose. Same face, hair, outfit and proportions in every cell, whole body visible, clean white background, no text.\n\nStep 2 · dance GIF\n\nUse the uploaded 4x4 pose sheet as both the character reference and the choreography. Animate this exact anime girl dancing through the 16 poses in the same order, one pose per frame, ending on the wink pose so it loops back to the first pose. Fun hip-hop groove, smooth, relaxed tempo. Full body in every frame, same size, centered, camera locked. Same face, hair and outfit in every frame. Clean white background, no text."
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118630103894909299",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Try it here 👉 https://t.co/YXvd6OnIYO\n\nGPT Image 2.6 prompt:\n\nStep 1 · 16 poses\n\nUse the uploaded image as the character reference. Redraw her as a cute Japanese anime girl and create a 4x4 grid of 16 full-body dance poses of this exact same character: groove bounce, shoulder",
+      "url": "https://x.com/renoiseai/status/2118630290646327460"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118646398975385600"
+        ]
+      },
+      "author_id": "1145463968573599744",
+      "conversation_id": "2118646553367740579",
+      "created_at": "2026-11-06T10:07:55.000Z",
+      "edit_history_post_ids": [
+        "2118646553367740579"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/1Cjvi2KfJV",
+            "end": 302,
+            "expanded_url": "https://x.com/global_techgirl/status/2118646553367740579/photo/1",
+            "media_key": "16_2118646398975385600",
+            "start": 279,
+            "url": "https://t.co/1Cjvi2KfJV"
+          }
+        ]
+      },
+      "id": "2118646553367740579",
+      "lang": "en",
+      "note_tweet": {
+        "text": "GPT Images 2.6 is here!\n\nI tried out the new GIF feature\n\nAnd I let the Oxford Cabin couple finally eat.\n\nPrompt:\n\"Animate this exact image as a short looping GIF. Keep the packaging, colours, text, illustration style and both faces exactly the same. The two people finally bite into their biscuits, chew happily, and glance at each other with a satisfied smile. A few crumbs fall. Keep the motion subtle, like the vintage illustration came to life. Smooth loop.\""
+      },
+      "text": "GPT Images 2.6 is here!\n\nI tried out the new GIF feature\n\nAnd I let the Oxford Cabin couple finally eat.\n\nPrompt:\n\"Animate this exact image as a short looping GIF. Keep the packaging, colours, text, illustration style and both faces exactly the same. The two people finally bite https://t.co/1Cjvi2KfJV",
+      "url": "https://x.com/global_techgirl/status/2118646553367740579"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118657773324099585"
+        ]
+      },
+      "author_id": "2086427967388069888",
+      "conversation_id": "2118657783436616144",
+      "created_at": "2026-11-06T10:52:32.000Z",
+      "edit_history_post_ids": [
+        "2118657783436616144"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 102,
+            "start": 97,
+            "tag": "生成AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/qgh4MTGGbk",
+            "end": 126,
+            "expanded_url": "https://x.com/fukurou_kessha/status/2118657783436616144/photo/1",
+            "media_key": "16_2118657773324099585",
+            "start": 103,
+            "url": "https://t.co/qgh4MTGGbk"
+          }
+        ]
+      },
+      "id": "2118657783436616144",
+      "lang": "ja",
+      "text": "フクロウのGPT Images 2.6やってみよう期間2回目です。\n同一性の確保で、GIFにするコマ絵は確かに得意そうですね。\n結社のボスちゃん、\n射抜くように指さして、\nさぁ活動開始ですっ！\n#生成AI https://t.co/qgh4MTGGbk",
+      "url": "https://x.com/fukurou_kessha/status/2118657783436616144"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2118666907893305344"
+        ]
+      },
+      "author_id": "1775121918762659840",
+      "conversation_id": "2118667792509776171",
+      "created_at": "2026-11-06T11:32:19.000Z",
+      "edit_history_post_ids": [
+        "2118666956362666068",
+        "2118667792509776171"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/st1IAaqF5a",
+            "end": 148,
+            "expanded_url": "https://x.com/zhu185178/status/2118667792509776171/video/1",
+            "media_key": "13_2118666907893305344",
+            "start": 125,
+            "url": "https://t.co/st1IAaqF5a"
+          },
+          {
+            "display_url": "x.com/zhu185178/stat…",
+            "end": 172,
+            "expanded_url": "https://twitter.com/zhu185178/status/2118464916260782588",
+            "start": 149,
+            "url": "https://t.co/PFecg8QOQL"
+          }
+        ]
+      },
+      "id": "2118667792509776171",
+      "lang": "zh",
+      "referenced_tweets": [
+        {
+          "id": "2118464916260782588",
+          "type": "quoted"
+        }
+      ],
+      "text": "之前发了一条用 GPT Image 2.6 生成动图、再渲染成视频制作的 30 秒街头飙车视频。因为在补帧的过程中出现了一些炫彩和空间拉扯扭曲，大家感官上觉得效果不好。\n\n但其实我当时只完成了第一步，后面还有一步，你可以用 seedance 2.5 的多参能力去参考这段视频，把它重新生成一遍，效果就会非常好。或者用其他视频生成模型也可以。就比如这次发的视频，我为了图省事儿，用的是 Grok Imagine（因为grokbot里自带），让…",
+      "url": "https://x.com/zhu185178/status/2118667792509776171",
+      "editorial_truncated": true,
+      "full_text_policy": "仅必要节选；完整响应保存在本地research证据，不整体转载长体验文。"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2118678084996263936"
+        ]
+      },
+      "author_id": "2066463644431560704",
+      "conversation_id": "2118687928490836076",
+      "created_at": "2026-11-06T12:52:20.000Z",
+      "edit_history_post_ids": [
+        "2118687928490836076"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/04jht2yegq",
+            "end": 122,
+            "expanded_url": "https://x.com/almostlab/status/2118687928490836076/video/1",
+            "media_key": "13_2118678084996263936",
+            "start": 99,
+            "url": "https://t.co/04jht2yegq"
+          }
+        ]
+      },
+      "id": "2118687928490836076",
+      "lang": "zh",
+      "text": "试了下 GPT Image 2.6 的 GIF 生成。能动了，但目前还替代不了用代码的视频制作，画面抖动，比例不对，问题还很多。适合做表情包。左边是代码动效，右边是生成的 GIF，提示词放下面了。 https://t.co/04jht2yegq",
+      "url": "https://x.com/almostlab/status/2118687928490836076"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2118692323932643328"
+        ]
+      },
+      "author_id": "2117092936190214144",
+      "conversation_id": "2118692350117752854",
+      "created_at": "2026-11-06T13:09:54.000Z",
+      "edit_history_post_ids": [
+        "2118692350117752854"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/LLkiFZ8ZBj",
+            "end": 156,
+            "expanded_url": "https://x.com/shionlives/status/2118692350117752854/photo/1",
+            "media_key": "16_2118692323932643328",
+            "start": 133,
+            "url": "https://t.co/LLkiFZ8ZBj"
+          }
+        ]
+      },
+      "id": "2118692350117752854",
+      "lang": "ja",
+      "text": "マルフォイが２人いたら、たぶんこうなる。\n\n💜「ちょっと呪文を試しただけ」\n🤍「……ちょっと？」\n\nGPT Images 2.6がついに登場！✨\nさっそく魔法の世界にも飛び込んでみました🪄\n\nこのGIF、どうやって作ったと思う？\n使ったプロンプトは下に載せてるよ👇 https://t.co/LLkiFZ8ZBj",
+      "url": "https://x.com/shionlives/status/2118692350117752854"
+    },
+    {
+      "author_id": "2117092936190214144",
+      "conversation_id": "2118692350117752854",
+      "created_at": "2026-11-06T13:29:24.000Z",
+      "edit_history_post_ids": [
+        "2118697256899715549"
+      ],
+      "id": "2118697256899715549",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "使用兩張人物身份參考圖，生成一支真人電影攝影質感的循環 GIF。必須保留兩位人物原本的臉部身份與可辨識特徵。\n\n角色設定：\n\n左側：女版馬份大小姐 Cosplay，長鉑金色假髮，神情自信、高傲又帶點調皮。手持魔杖，是唯一施法者。\n右側：經典男版馬份 Cosplay，短鉑金色假髮，氣質冷淡、高傲。保留原始參考圖的臉部骨相與五官比例，不得直接變成陌生男性演員。\n\n場景：\n充滿英國魔法學院氣氛的古老石造大廳，哥德式窗戶、自然光、略帶陰鬱的電影攝影質感。固定鏡頭，雙人中近景。\n\n動畫過程：\n\n兩人自信地並肩站立，左側人物舉起魔杖。\n魔杖周圍聚集鮮明的翠綠色魔法能量，旋轉並向前釋放。\n一條巨大、霸氣、充滿壓迫感的巨龍突然出現，迅速衝向鏡頭。\n巨龍的頭部與翅膀進入鏡頭近前景，位於相機與兩位人物之間，短暫遮住兩人的臉。\n巨龍持續向上飛行，完全離開畫面，不得在畫面頂端殘留。\n遮擋解除後，兩人的臉重新出現。左側人物毫無危機感，天真又滿足，彷彿只是完成一個普通魔法；右側人物震驚到高傲形象破功，不可置信地轉頭看向左側人物。\n\n視覺風格：\n真實攝影質感、自然皮膚紋理、真實髮絲動態、電影式自然光、具有強烈能量感的魔法特效，以及細節豐富、氣勢強大的巨龍。\n\n避免過度美顏與通用 AI 網紅臉，人物身份優先。\n\nGIF 設定：\n16 格動畫，每格 180ms，4×4 等尺寸宮格，總長約 2.88 秒。正方形構圖，無限循環，不倒放、不插入額外角色、沒有字幕、Logo 或音效。\n\n最重要的要求：\n巨龍必須從兩位人物前方經過，不能從背景飛過。\n\n畫面必須呈現：\n雙臉可見 → 巨龍前景遮擋 → 巨龍完全離場 → 雙臉重新揭曉 → 強烈的表情反差。\n\n不得更換兩張參考圖中的原始人物身份。"
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118692350117752854",
+          "type": "replied_to"
+        }
+      ],
+      "text": "使用兩張人物身份參考圖，生成一支真人電影攝影質感的循環 GIF。必須保留兩位人物原本的臉部身份與可辨識特徵。\n\n角色設定：\n\n左側：女版馬份大小姐 Cosplay，長鉑金色假髮，神情自信、高傲又帶點調皮。手持魔杖，是唯一施法者。\n右側：經典男版馬份",
+      "url": "https://x.com/shionlives/status/2118697256899715549"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1145463968573599744",
+        "name": "Mercy Thaddeus",
+        "username": "global_techgirl"
+      },
+      {
+        "id": "1267123837335814144",
+        "name": "Shuoxin Wang",
+        "username": "shuoxin_wang"
+      },
+      {
+        "id": "1391788515302592524",
+        "name": "SSSS.CRYPTOMAN⚡️AI",
+        "username": "SSSS_CRYPTOMAN"
+      },
+      {
+        "created_at": "2021-05-24T04:38:47.000Z",
+        "description": "7年动画导演 → AI 影视导演 🎬\n一个人 + 一套 Skill = 一个剧组\n每天拆一套 Seedance / GPT-Image 工作流，提示词直接抄 👇\n📩 合作：axis@xinyuai.app",
+        "id": "1396687038703939587",
+        "name": "AXIS实验室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086457699588263936/NsZ3lrlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 61,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 23,
+          "post_count": 90
+        },
+        "username": "AXIS95277",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "id": "1432778782444646401",
+        "name": "みどり🐲Midori Tatsuta",
+        "username": "midori_tatsuta"
+      },
+      {
+        "id": "1481438064580784132",
+        "name": "IT navi",
+        "username": "itnavi2022"
+      },
+      {
+        "created_at": "2022-04-14T16:27:17.000Z",
+        "description": "🤖 AI Agent 实战｜Claude Code · Codex · 自动化\n🎁 每天分享 AI 开源项目 & 免费资源\n🌍 跨境电商 · 副业 · 出海 | Global Business",
+        "id": "1514641399043424258",
+        "location": "0.1km",
+        "name": "Nathan AI Lab（互fo, CD后马上回）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112751656815452160/SlnFGmG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7705,
+          "following_count": 6862,
+          "like_count": 1829,
+          "listed_count": 5,
+          "media_count": 1957,
+          "post_count": 18171
+        },
+        "username": "KOF97AI",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "id": "1594876549286739968",
+        "name": "cocktail peanut",
+        "username": "cocktailpeanut"
+      },
+      {
+        "created_at": "2013-08-09T10:31:29.000Z",
+        "description": "只发AI相关信息，个人维护的AI资讯日报（已连续日更3年）👇",
+        "id": "1657474831",
+        "name": "Gorden Sun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70060,
+          "following_count": 1759,
+          "like_count": 233,
+          "listed_count": 982,
+          "media_count": 3648,
+          "post_count": 9478
+        },
+        "username": "Gorden_Sun",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2013-08-14T02:18:36.000Z",
+        "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+        "id": "1669276256",
+        "name": "歸藏(guizang.ai)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186768,
+          "following_count": 1311,
+          "like_count": 48756,
+          "listed_count": 3380,
+          "media_count": 8856,
+          "post_count": 26432
+        },
+        "username": "op7418",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "id": "1671920202",
+        "name": "弎水",
+        "username": "vastxie"
+      },
+      {
+        "id": "1675467412647575553",
+        "name": "カーブミラー",
+        "username": "kabumira862571"
+      },
+      {
+        "id": "1775121918762659840",
+        "name": "Feicai",
+        "username": "zhu185178"
+      },
+      {
+        "created_at": "2025-02-22T05:17:34.000Z",
+        "description": "Generate the Moment. Create images, videos, and campaigns with leading AI models, all in one workspace.",
+        "id": "1893168194837454849",
+        "location": "New York City",
+        "name": "SocialSight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019905990137622528/6GIIW2tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7578,
+          "following_count": 240,
+          "like_count": 22155,
+          "listed_count": 49,
+          "media_count": 914,
+          "post_count": 4487
+        },
+        "username": "SocialSight",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "created_at": "2013-09-25T10:07:39.000Z",
+        "description": "AI systems, Local LLMs, Agents, GPUs\nI test models, read code, and post the numbers.",
+        "id": "1903623162",
+        "location": "Seoul, KR",
+        "name": "DEXTUNE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071208023268401152/8pZCes46_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 156,
+          "like_count": 6511,
+          "listed_count": 16,
+          "media_count": 895,
+          "post_count": 2734
+        },
+        "username": "dextune",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "id": "1999436905805742080",
+        "name": "Morphed",
+        "username": "morphedai"
+      },
+      {
+        "id": "1999491331413188608",
+        "name": "DeepBlue深藍",
+        "username": "DeepBlueX0"
+      },
+      {
+        "id": "2017620965971398659",
+        "name": "Renoise",
+        "username": "renoiseai"
+      },
+      {
+        "id": "2033025228654391296",
+        "name": "阿策",
+        "username": "Bytec99"
+      },
+      {
+        "id": "2066463644431560704",
+        "name": "差不多和不完美",
+        "username": "almostlab"
+      },
+      {
+        "id": "2084245314643599360",
+        "name": "Nicky_42",
+        "username": "NickyLi42"
+      },
+      {
+        "id": "2086427967388069888",
+        "name": "フクロウ結社",
+        "username": "fukurou_kessha"
+      },
+      {
+        "id": "2110744653574135810",
+        "name": "AI GOATS",
+        "username": "aigoatseu"
+      },
+      {
+        "id": "2117092936190214144",
+        "name": "紫苑 Shion",
+        "username": "shionlives"
+      },
+      {
+        "id": "3301610721",
+        "name": "AndromedaAlien",
+        "username": "AndromedaAlien3"
+      },
+      {
+        "created_at": "2011-07-21T11:48:51.000Z",
+        "description": "",
+        "id": "339622037",
+        "name": "BuyTheDip",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843975403934990336/yji8PYg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 1434,
+          "like_count": 6420,
+          "listed_count": 3,
+          "media_count": 43,
+          "post_count": 773
+        },
+        "username": "Daft_Trade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "id": "81245637",
+        "name": "taro acida",
+        "username": "taro_acida"
+      },
+      {
+        "id": "816255073235808256",
+        "name": "ましゅめろ🌎🪄",
+        "username": "__masyu0225"
+      },
+      {
+        "id": "886009320306900992",
+        "name": "半格",
+        "username": "ai_bange"
+      }
+    ],
+    "media": [
+      {
+        "duration_ms": 15500,
+        "height": 480,
+        "media_key": "13_2118405386575269888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118405386575269888/img/IhQYvdATP4n1FINn.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118405386575269888/vid/avc1/540x270/D1J7U5pxLTC8GknV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118405386575269888/vid/avc1/720x360/syM98-JgVt_tSUW2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118405386575269888/vid/avc1/960x480/MrC84Dmqb1ePgKnK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2118405386575269888/pl/8jgfZI2oJQqDd6FC.m3u8"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 5000,
+        "height": 358,
+        "media_key": "13_2118407099247968256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118407099247968256/img/3kKZCRV3xjs6Wwpp.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118407099247968256/vid/avc1/320x320/L3wLSkVm5nfgENv8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118407099247968256/vid/avc1/356x358/NsjEP_nz4euG0NqP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2118407099247968256/pl/1UKRu4NHbjx4DwPu.m3u8"
+          }
+        ],
+        "width": 356
+      },
+      {
+        "duration_ms": 9600,
+        "height": 1080,
+        "media_key": "13_2118629915797204992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118629915797204992/img/RcG3O-D3FqKezY_B.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118629915797204992/vid/avc1/1920x1080/Tkw8PGzZ6_I-XDd_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118629915797204992/vid/avc1/1280x720/Gjl08th-hl7PWZ16.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2118629915797204992/pl/OLW1HAXHuJr3CQwu.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118629915797204992/vid/avc1/480x270/buuq1mha8d6DRCPI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118629915797204992/vid/avc1/640x360/hRbgF9mzUFQl9k1Q.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 30000,
+        "height": 720,
+        "media_key": "13_2118666907893305344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118666907893305344/img/wEJQcY5ZQmnjJaCi.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118666907893305344/vid/avc1/480x270/TDjjrIEkWOv5yjo_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118666907893305344/vid/avc1/640x360/nvhcwKUXx0meVvaX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118666907893305344/vid/avc1/1280x720/7Tj_mNTCTi0yOby1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2118666907893305344/pl/ueuGb04jH5nsf5LF.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 30500,
+        "height": 1920,
+        "media_key": "13_2118678084996263936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118678084996263936/img/8YmKj1snXJTc5ZSU.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118678084996263936/vid/avc1/320x568/HR9O5xAKicoIJzAk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118678084996263936/vid/avc1/480x852/adpuqxCtQX8DvAXT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2118678084996263936/vid/avc1/720x1280/w-RNJfCb-jHyshqS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2118678084996263936/pl/kqwtnKqwTk97VH8Y.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 398,
+        "media_key": "16_2118144416900890624",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWUpH_BawAAEfdJ.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWUpH_BawAAEfdJ.mp4"
+          }
+        ],
+        "width": 426
+      },
+      {
+        "height": 508,
+        "media_key": "16_2118165970133168129",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWU8ujEbsAEYOxw.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWU8ujEbsAEYOxw.mp4"
+          }
+        ],
+        "width": 508
+      },
+      {
+        "height": 408,
+        "media_key": "16_2118180652751495168",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWVKFMFboAApgRC.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWVKFMFboAApgRC.mp4"
+          }
+        ],
+        "width": 414
+      },
+      {
+        "height": 304,
+        "media_key": "16_2118180652759826433",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWVKFMHawAEA-lR.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWVKFMHawAEA-lR.mp4"
+          }
+        ],
+        "width": 308
+      },
+      {
+        "height": 352,
+        "media_key": "16_2118180652764090368",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWVKFMIb0AA2teV.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWVKFMIb0AA2teV.mp4"
+          }
+        ],
+        "width": 358
+      },
+      {
+        "height": 308,
+        "media_key": "16_2118180652780822528",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWVKFMMbIAA4Geo.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWVKFMMbIAA4Geo.mp4"
+          }
+        ],
+        "width": 306
+      },
+      {
+        "height": 356,
+        "media_key": "16_2118196669749809153",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWVYpgDaUAEw_Yf.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWVYpgDaUAEw_Yf.mp4"
+          }
+        ],
+        "width": 358
+      },
+      {
+        "height": 368,
+        "media_key": "16_2118204508451020800",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWVfxxfaoAAPOQl.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWVfxxfaoAAPOQl.mp4"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "height": 412,
+        "media_key": "16_2118241236914212864",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWWBLprbEAAEdrG.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWWBLprbEAAEdrG.mp4"
+          }
+        ],
+        "width": 414
+      },
+      {
+        "height": 358,
+        "media_key": "16_2118252250158256128",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWWLMtNa0AAyQ2W.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWWLMtNa0AAyQ2W.mp4"
+          }
+        ],
+        "width": 358
+      },
+      {
+        "height": 1202,
+        "media_key": "16_2118264129152487424",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWWWAJ6WEAA5jv2.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWWWAJ6WEAA5jv2.mp4"
+          }
+        ],
+        "width": 1052
+      },
+      {
+        "height": 356,
+        "media_key": "16_2118264166565752832",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWWWCVSXMAAm8TS.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWWWCVSXMAAm8TS.mp4"
+          }
+        ],
+        "width": 1052
+      },
+      {
+        "height": 1014,
+        "media_key": "16_2118264374485999617",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWWWOb2aYAEmz-B.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWWWOb2aYAEmz-B.mp4"
+          }
+        ],
+        "width": 950
+      },
+      {
+        "height": 1014,
+        "media_key": "16_2118264411047727104",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWWWQkDaEAAfLWG.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWWWQkDaEAAfLWG.mp4"
+          }
+        ],
+        "width": 950
+      },
+      {
+        "height": 512,
+        "media_key": "16_2118281011918409728",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWWlW3HaEAAxdLe.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWWlW3HaEAAxdLe.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 512,
+        "media_key": "16_2118283153341321216",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWWnTgiakAAJIF-.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWWnTgiakAAJIF-.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 512,
+        "media_key": "16_2118283297658925056",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWWnb6KacAA5032.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWWnb6KacAA5032.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 512,
+        "media_key": "16_2118283395277217792",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWWnhl0bYAAofEi.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWWnhl0bYAAofEi.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 1254,
+        "media_key": "16_2118284845059280896",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWWo1-raEAAW5-t.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWWo1-raEAAW5-t.mp4"
+          }
+        ],
+        "width": 1254
+      },
+      {
+        "height": 720,
+        "media_key": "16_2118336296750026752",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWXXo3KaEAAwYdf.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWXXo3KaEAAwYdf.mp4"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 360,
+        "media_key": "16_2118370418243563520",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWX2q_oacAA6b8e.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWX2q_oacAA6b8e.mp4"
+          }
+        ],
+        "width": 840
+      },
+      {
+        "height": 512,
+        "media_key": "16_2118424950331850752",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWYoRLfawAA2Hoc.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWYoRLfawAA2Hoc.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 512,
+        "media_key": "16_2118434437696286720",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWYw5arXcAAGydI.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWYw5arXcAAGydI.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 288,
+        "media_key": "16_2118434437759193089",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWYw5a6XUAEpCTV.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWYw5a6XUAEpCTV.mp4"
+          }
+        ],
+        "width": 288
+      },
+      {
+        "height": 384,
+        "media_key": "16_2118434437910179840",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWYw5beXMAAxDhY.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWYw5beXMAAxDhY.mp4"
+          }
+        ],
+        "width": 384
+      },
+      {
+        "height": 288,
+        "media_key": "16_2118434437960523777",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWYw5bqXYAETUh2.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWYw5bqXYAETUh2.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 384,
+        "media_key": "16_2118434437968871424",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWYw5bsWwAA1Rqj.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWYw5bsWwAA1Rqj.mp4"
+          }
+        ],
+        "width": 384
+      },
+      {
+        "height": 288,
+        "media_key": "16_2118434438031810561",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWYw5b7XIAE6x0k.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWYw5b7XIAE6x0k.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 512,
+        "media_key": "16_2118434438082125824",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWYw5cHW4AAEPPQ.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWYw5cHW4AAEPPQ.mp4"
+          }
+        ],
+        "width": 288
+      },
+      {
+        "height": 288,
+        "media_key": "16_2118434438128295936",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWYw5cSXYAAWrvJ.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWYw5cSXYAAWrvJ.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 288,
+        "media_key": "16_2118434438296072193",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWYw5c6XcAEKR6e.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWYw5c6XcAEKR6e.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 288,
+        "media_key": "16_2118434438841331712",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWYw5e8XcAAn7Rl.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWYw5e8XcAAn7Rl.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 266,
+        "media_key": "16_2118516134911807489",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWZ7M0haEAEWf5q.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWZ7M0haEAEWf5q.mp4"
+          }
+        ],
+        "width": 356
+      },
+      {
+        "height": 1024,
+        "media_key": "16_2118517845353238528",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWZ8wYabEAAIaZ3.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWZ8wYabEAAIaZ3.mp4"
+          }
+        ],
+        "width": 1024
+      },
+      {
+        "height": 308,
+        "media_key": "16_2118521612270264320",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWaALpRbYAArZ4J.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWaALpRbYAArZ4J.mp4"
+          }
+        ],
+        "width": 308
+      },
+      {
+        "height": 768,
+        "media_key": "16_2118553949964013568",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWadl8kbEAArMet.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWadl8kbEAArMet.mp4"
+          }
+        ],
+        "width": 432
+      },
+      {
+        "height": 304,
+        "media_key": "16_2118581343013797888",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWa2gbobgAABOYa.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWa2gbobgAABOYa.mp4"
+          }
+        ],
+        "width": 310
+      },
+      {
+        "height": 410,
+        "media_key": "16_2118581343017902080",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWa2gbpaIAA3pIj.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWa2gbpaIAA3pIj.mp4"
+          }
+        ],
+        "width": 412
+      },
+      {
+        "height": 414,
+        "media_key": "16_2118581344116846592",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWa2gfvasAAOmrA.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWa2gfvasAAOmrA.mp4"
+          }
+        ],
+        "width": 414
+      },
+      {
+        "height": 412,
+        "media_key": "16_2118581344699867136",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWa2gh6a4AAQBXp.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWa2gh6a4AAQBXp.mp4"
+          }
+        ],
+        "width": 414
+      },
+      {
+        "height": 308,
+        "media_key": "16_2118601264095490048",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWbIn_ca8AAtQ1B.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWbIn_ca8AAtQ1B.mp4"
+          }
+        ],
+        "width": 552
+      },
+      {
+        "height": 414,
+        "media_key": "16_2118646398975385600",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWbxrL-WoAAIPKr.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWbxrL-WoAAIPKr.mp4"
+          }
+        ],
+        "width": 414
+      },
+      {
+        "height": 512,
+        "media_key": "16_2118657773324099585",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWb8BQuaYAEeQqP.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWb8BQuaYAEeQqP.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 306,
+        "media_key": "16_2118692323932643328",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HWcbcXxaIAAdVuf.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HWcbcXxaIAAdVuf.mp4"
+          }
+        ],
+        "width": 308
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2118166009131757568",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWU8w0Wa8AAb9LS.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2118181950091632640",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWVLQtDbIAAvaGI.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2118181950112612352",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWVLQtIbQAA3Tsr.jpg",
+        "width": 1254
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2118285007920025600",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWWo_dYb0AA-zww.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1650,
+        "media_key": "3_2118407928197644289",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWYYyXGXgAEm0Av.jpg",
+        "width": 1056
+      },
+      {
+        "duration_ms": 2160,
+        "height": 356,
+        "media_key": "7_2118369175697502208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2118369175697502208/pu/img/sXEn7IqaUM2DBWDl.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2118369175697502208/pu/vid/avc1/356x356/7SEyYWOavoyMsUFm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2118369175697502208/pu/pl/Bi3Xq8wLYZLTCdgF.m3u8?tag=12"
+          }
+        ],
+        "width": 356
+      },
+      {
+        "duration_ms": 58333,
+        "height": 1920,
+        "media_key": "7_2118407624152498176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2118407624152498176/pu/img/yz8R0JLDwXOC8NmT.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2118407624152498176/pu/vid/avc1/320x568/0GasMQH0VJA5Bfux.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2118407624152498176/pu/vid/avc1/480x852/RJb4O_IceIzcM0kl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2118407624152498176/pu/vid/avc1/720x1280/EUrz6C-Rz-H3tmrO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2118407624152498176/pu/pl/HUyNPLFnzDUd9Nqm.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ]
+  },
+  "editorial_record": {
+    "scope": "独立中文链接索引；长体验文仅节选；原始UTC保留",
+    "verification": "公共X搜索16次、批量lookup3次；无媒体下载，无逐帧目视或模型复现",
+    "compiled_at_pt": "2026-11-06 PST"
+  }
+}

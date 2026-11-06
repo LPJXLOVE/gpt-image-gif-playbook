@@ -1,0 +1,15 @@
+{
+  "title": "GPT Image GIF Playbook",
+  "edition": "V2",
+  "compiled_at_pt": "2026-11-06 PST",
+  "timezone": "America/Los_Angeles",
+  "raw_source_file": "source-records.json",
+  "raw_source_sha256": "a449e94153d4a5e8991e005af5b4ce14d3debfd72a9f61d1333260a88ff3b210",
+  "gif_entries": 37,
+  "video_workflow_entries": 6,
+  "prompt_documents": 15,
+  "source_posts": 52,
+  "media_policy": "只链接，不下载第三方媒体",
+  "verification_limit": "搜索/lookup与元数据绑定，不是逐帧评测或模型独立复现；长体验文仅必要节选",
+  "query_boundaries": "16次搜索未穷尽分页；1个引用帖查无，已跳过，不影响入选记录；query8分页条件变化仅作线索，入选均单独lookup核验"
+}

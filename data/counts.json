@@ -1,0 +1,17 @@
+{
+  "gif_case_posts": 37,
+  "video_workflow_posts": 6,
+  "total_entries": 43,
+  "prompt_levels": {
+    "未采集": 25,
+    "完整": 15,
+    "节选": 3
+  },
+  "complete_prompt_files": 15,
+  "new_gif_case_posts": 19,
+  "new_video_workflow_posts": 5,
+  "search_calls": 16,
+  "batch_lookup_calls": 3,
+  "unique_search_candidates": 233,
+  "counting_unit": "独立帖/作品组；不把附件、宫格、帧或语言版本拆条"
+}
